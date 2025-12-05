@@ -1,0 +1,139 @@
+[2025.12.05 12:14:26] [0000m.00s.036ms] [0] WELCOME
+[2025.12.05 12:14:26] [0000m.00s.038ms] [1] iCDB Server ver.3.253, u99LbhRtRYplOuK8UVbxEw, build:17496615 created 2025-09-25 13:25:30, sources stamp:u99LbhRtRYplOuK8UVbxEw
+[2025.12.05 12:14:26] [0000m.00s.038ms] [1] Unpublished work. Copyright 2025 Siemens\r\n\r\nThis material contains trade secrets or otherwise confidential\r\ninformation owned by Siemens Industry Software Inc.\r\nor its affiliates (collectively, 'SISW'), or its licensors.\r\nAccess to and use of this information is strictly limited\r\nas set forth in the Customer's applicable agreements with SISW.
+[2025.12.05 12:14:26] [0000m.00s.041ms] [1] Base flow version [2510]
+[2025.12.05 12:14:26] [0000m.00s.042ms] [1] Install Id [76190007], Flow Id [Xpedition Value Based Add Ons 2510], Full Flow Name [Xpedition Value Based Add Ons 2510], Exact Access Date [2025/09/01]
+[2025.12.05 12:14:26] [0000m.00s.042ms] [1] Install Id [76190076], Flow Id [Xpedition Standard 2510], Full Flow Name [Xpedition Standard 2510], Exact Access Date [2025/09/01]
+[2025.12.05 12:14:26] [0000m.00s.050ms] [1] Machine [DESKTOP-H15QKG3]  IP [127.0.0.1,192.168.10.159,192.168.164.1,192.168.32.1,192.168.56.1]  User [shrou]  PID [9928]
+[2025.12.05 12:14:26] [0000m.00s.050ms] [1] Operating system [Microsoft Windows 11 version 24H2 Home Premium Edition, 64-bit (build 26200)]
+[2025.12.05 12:14:26] [0000m.00s.050ms] [1] Current working dir [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\PCB]
+[2025.12.05 12:14:26] [0000m.00s.050ms] [1] PATH [C:\SiemensEDA\XPED2510\SDD_HOME\xe\win64\lib;C:\SiemensEDA\XPED2510\SDD_HOME\common\win64\bin;C:\SiemensEDA\XPED2510\SDD_HOME\common\win64\lib;C:\SiemensEDA\XPED2510\SDD_HOME\common\win32\lib;C:\SiemensEDA\XPED2510\SDD_HOME\common\win64\jre\default\bin;C:\SiemensEDA\XPED2510\MGC_HOME.ixw\bin;C:\SiemensEDA\XPED2510\MGC_HOME.ixw\lib;C:\SiemensEDA\XPED2510\SDD_HOME\wg\win64\lib;C:\SiemensEDA\XPED2510\SDD_HOME\common3D\win64\lib;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Program Files\dotnet\;C:\Program Files\WireGuard\;C:\Program Files\PuTTY\;C:\Program Files\Docker\Docker\resources\bin;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Muse Hub\lib;C:\Users\shrou\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\shrou\AppData\Local\Programs\Python\Python310\;C:\Users\shrou\AppData\Local\Microsoft\WindowsApps;C:\Users\shrou\AppData\Local\GitHubDesktop\bin;C:\Users\shrou\AppData\Local\atom\bin;C:\Users\shrou\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\shrou\AppData\Local\Microsoft\WindowsApps;C:\Users\shrou\AppData\Local\Muse Hub\lib;]
+[2025.12.05 12:14:26] [0000m.00s.051ms] [1] SDD_HOME [C:\SiemensEDA\XPED2510\SDD_HOME] on file system [NTFS]
+[2025.12.05 12:14:26] [0000m.00s.051ms] [1] SDD_PLATFORM [win64]
+[2025.12.05 12:14:26] [0000m.00s.051ms] [1] WDIR [C:\WDIR\XPED2510;C:\SiemensEDA\XPED2510\SDD_HOME\standard;]
+[2025.12.05 12:14:26] [0000m.00s.051ms] [1] Local iCDB working dir [C:\WDIR\XPED2510\iCDB] on file system [NTFS]
+[2025.12.05 12:14:26] [0000m.00s.051ms] [2] S: Loading config files
+[2025.12.05 12:14:26] [0000m.00s.103ms] [1] Config file [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\database\cdbsvr\Server.cfg] not found
+[2025.12.05 12:14:26] [0000m.00s.115ms] [3] S: Config loaded
+[2025.12.05 12:14:26] [0000m.00s.122ms] [0] S: Project path [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\database] on file system [NTFS]
+[2025.12.05 12:14:26] [0000m.00s.122ms] [0] S: Project file (.prj) path [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\ShrouksSnowflake.prj] on file system [NTFS]
+[2025.12.05 12:14:26] [0000m.00s.122ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2025.12.05 12:14:26] [0000m.00s.122ms] [0] S: Single-user mode (auto)
+[2025.12.05 12:14:26] [0000m.00s.122ms] [0] S: Event polling mode autodetection
+[2025.12.05 12:14:26] [0000m.00s.124ms] [0] S: Started up automatically by iCDB Client: DESKTOP-H15QKG3:shrou:2992
+[2025.12.05 12:14:26] [0000m.00s.124ms] [0] S: Auto close mode
+[2025.12.05 12:14:26] [0000m.00s.124ms] [0] S: Database ID [6707-9724-4465-72f5-1acc-2397-acc2-3960-405d-7454-bf6d-4941]
+[2025.12.05 12:14:26] [0000m.00s.124ms] [0] PathTranslator: BEGIN dumping
+[2025.12.05 12:14:26] [0000m.00s.124ms] [0] PathTranslator: Local -> global path prefix list
+[2025.12.05 12:14:26] [0000m.00s.124ms] [0] PathTranslator: [C:\Users] -> [\\DESKTOP-H15QKG3\Users]
+[2025.12.05 12:14:26] [0000m.00s.124ms] [0] PathTranslator: Global -> local path prefix list
+[2025.12.05 12:14:26] [0000m.00s.124ms] [0] PathTranslator: [\\DESKTOP-H15QKG3\Users] -> [C:\Users]
+[2025.12.05 12:14:26] [0000m.00s.124ms] [0] PathTranslator: END dumping
+[2025.12.05 12:14:26] [0000m.00s.124ms] [0] S: START
+[2025.12.05 12:14:26] [0000m.00s.125ms] [0] S: Server startup lock file created
+[2025.12.05 12:14:26] [0000m.00s.126ms] [0] S: Listening for client connections on port [10000]
+[2025.12.05 12:14:26] [0000m.00s.143ms] [0] S: Server network ID [DESKTOP-H15QKG3:192.168.10.159,192.168.164.1,192.168.32.1,192.168.56.1,DESKTOP-H15QKG3:10000]
+[2025.12.05 12:14:26] [0000m.00s.144ms] [0] S: Server GUID [0588-bb04-79f9-a7e3-2acc-2398-acc2-3960-4776-7454-bf6d-4941]
+[2025.12.05 12:14:26] [0000m.00s.144ms] [0] S: Project GUID [6707-9724-4465-72f5-1acc-2397-acc2-3960-405d-7454-bf6d-4941]
+[2025.12.05 12:14:26] [0000m.00s.147ms] [0] S: Wrote data to server address file
+[2025.12.05 12:14:26] [0000m.00s.148ms] [0] S: Server startup lock file removed
+[2025.12.05 12:14:26] [0000m.00s.149ms] [1] ProjectBackupManager: Setting project file (.prj) path: [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\ShrouksSnowflake.prj]
+[2025.12.05 12:14:27] [0000m.00s.756ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2025.12.05 12:14:27] [0000m.00s.757ms] [1] ServerToolkit: INFO: Plugin not found in SDD_ICDB_BIN [C:\SiemensEDA\XPED2510\SDD_HOME\iCDB\win64\bin]
+[2025.12.05 12:14:27] [0000m.00s.757ms] [1] ServerToolkit: INFO: Plugin not found in SDD_COMMON_BIN [C:\SiemensEDA\XPED2510\SDD_HOME\common\win64\bin]
+[2025.12.05 12:14:27] [0000m.00s.759ms] [1] ServerToolkit: INFO: Plugin not found in PATH
+[2025.12.05 12:14:27] [0000m.00s.759ms] [1] ServerToolkit: INFO: Plugin not found in CWD
+[2025.12.05 12:14:27] [0000m.00s.759ms] [1] ServerToolkit: INFO: returning just plugin exe name!
+[2025.12.05 12:14:27] [0000m.00s.759ms] [0] S: Local disc access time: 32 us
+[2025.12.05 12:14:27] [0000m.00s.759ms] [0] S: File server access time: 37 us
+[2025.12.05 12:14:27] [0000m.00s.797ms] [0] S: WARNING: The last iCDB Server session [DESKTOP-H15QKG3 (2025-12-03 19.16.33-3368)] with GUID [9571-325b-49c6-390b-19c8-0397-9c80-3960-4f39-7454-bf6d-4941] shutdown unexpectedly. Database integrity check forced.
+[2025.12.05 12:14:27] [0000m.00s.799ms] [0] Single file [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\database\icdb.dat] size [173952 (169.9 kB)]
+[2025.12.05 12:14:27] [0000m.00s.799ms] [1] Single file [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\database\icdb.dat] opened in read-write mode
+[2025.12.05 12:14:27] [0000m.00s.800ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2025.12.05 12:14:27] [0000m.00s.801ms] [0] Database GUARD MISMATCH: [173776] against [173952]
+[2025.12.05 12:14:27] [0000m.00s.806ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2025.12.05 12:14:27] [0000m.00s.806ms] [0] Database GUARD MISMATCH: [173776] against [173952]
+[2025.12.05 12:14:27] [0000m.00s.806ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2025.12.05 12:14:27] [0000m.00s.806ms] [0] Database GUARD MISMATCH: [173776] against [173952]
+[2025.12.05 12:14:27] [0000m.00s.807ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2025.12.05 12:14:27] [0000m.00s.807ms] [0] Database GUARD MISMATCH: [173776] against [173952]
+[2025.12.05 12:14:27] [0000m.00s.811ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2025.12.05 12:14:27] [0000m.00s.811ms] [0] Database GUARD MISMATCH: [173776] against [173952]
+[2025.12.05 12:14:27] [0000m.00s.811ms] [0] SingleFile: [b121-4f00-a0a5-f4a7] SFI version check [1009] [1009]
+[2025.12.05 12:14:27] [0000m.00s.825ms] [0] SingleFile: [b121-4f00-a0a5-f4a7] Reset holes information - force defragmentation
+[2025.12.05 12:14:27] [0000m.00s.825ms] [0] SingleFile: [b121-4f00-a0a5-f4a7] Database SFI header has been read in [14ms 644us]
+[2025.12.05 12:14:27] [0000m.00s.840ms] [0] iCDB Server PI: Server & plugin session [285]
+[2025.12.05 12:14:27] [0000m.00s.840ms] [0] iCDB Server PI: Opening database [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\database]
+[2025.12.05 12:14:27] [0000m.00s.841ms] [0] iCDB Server PI: Database [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\database] opened
+[2025.12.05 12:14:27] [0000m.00s.962ms] [0] iCDB Database: Checking existence of constraint definitions
+[2025.12.05 12:14:27] [0000m.00s.962ms] [0] iCDB Database: Checking constraint definitions version
+[2025.12.05 12:14:27] [0000m.01s.107ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.80] up to date
+[2025.12.05 12:14:27] [0000m.01s.115ms] [1] iCDB Server PI: Checking database integrity
+[2025.12.05 12:14:27] [0000m.01s.144ms] [1] Diagnostic: Warning: group claims owner but it does not exist in ICDB
+[2025.12.05 12:14:27] [0000m.01s.145ms] [1] Diagnostic: Check failed on Snapshot: DxD
+[2025.12.05 12:14:27] [0000m.01s.167ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\database\s2\cdbcmpcache\dxdatl.v] - auto-saving it
+[2025.12.05 12:14:27] [0000m.01s.172ms] [1] Diagnostic: Warning: group claims owner but it does not exist in ICDB
+[2025.12.05 12:14:27] [0000m.01s.172ms] [1] Diagnostic: Check failed on Snapshot: DxD_Connectivity_Checker
+[2025.12.05 12:14:27] [0000m.01s.186ms] [1] Diagnostic: Warning: group claims owner but it does not exist in ICDB
+[2025.12.05 12:14:27] [0000m.01s.187ms] [1] Diagnostic: Check failed on Snapshot: _savepoint[SCH][288230384741646341][4971973997206962181][15:29:04_11-26-25][1764175013]
+[2025.12.05 12:14:27] [0000m.01s.196ms] [1] Diagnostic: Warning: group claims owner but it does not exist in ICDB
+[2025.12.05 12:14:27] [0000m.01s.196ms] [1] Diagnostic: Check failed on Snapshot: Board1_layout_temp
+[2025.12.05 12:14:27] [0000m.01s.202ms] [1] Diagnostic: Warning: group claims owner but it does not exist in ICDB
+[2025.12.05 12:14:27] [0000m.01s.202ms] [1] Diagnostic: Check failed on Snapshot: Board1
+[2025.12.05 12:14:27] [0000m.01s.216ms] [1] Diagnostic: Warning: group claims owner but it does not exist in ICDB
+[2025.12.05 12:14:27] [0000m.01s.216ms] [1] Diagnostic: Check failed on Snapshot: Board1_RefSync
+[2025.12.05 12:14:27] [0000m.01s.230ms] [1] Diagnostic: Warning: group claims owner but it does not exist in ICDB
+[2025.12.05 12:14:27] [0000m.01s.230ms] [1] Diagnostic: Check failed on Snapshot: Board1_LDDTemp
+[2025.12.05 12:14:27] [0000m.01s.239ms] [1] iCDB Server PI: Database integrity check PASSED
+[2025.12.05 12:14:27] [0000m.01s.239ms] [0] iCDB Server PI: Initializing plugins
+[2025.12.05 12:14:27] [0000m.01s.244ms] [0] iCDB Server PI: Plugins initialized
+[2025.12.05 12:14:27] [0000m.01s.244ms] [0] S: iCDB database loaded
+[2025.12.05 12:14:27] [0000m.01s.251ms] [0] S: Starting threads
+[2025.12.05 12:14:27] [0000m.01s.253ms] [0] BT: Listening for broadcast messages on port [10000]
+[2025.12.05 12:14:27] [0000m.01s.253ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2025.12.05 12:14:27] [0000m.01s.262ms] [0] IT: Session [286] for host [DESKTOP-H15QKG3] user [shrou] client type[0] clsvrPluginID[0] with process ID [2992] created
+[2025.12.05 12:14:27] [0000m.01s.273ms] [0] MWT: WindowProc: WM_NCCREATE
+[2025.12.05 12:14:27] [0000m.01s.279ms] [1] SC[286]: Registered sub-client [Expedition PCB_117207218] with ID [1] for session ID [286] host [DESKTOP-H15QKG3] user [shrou] process ID [2992]
+[2025.12.05 12:14:28] [0000m.01s.365ms] [1] CMT: There are [1] clients now: 286
+[2025.12.05 12:14:28] [0000m.01s.443ms] [1] SC[286]: Registered sub-client [EEVM_EEVM_569061792] with ID [2] for session ID [286] host [DESKTOP-H15QKG3] user [shrou] process ID [2992]
+[2025.12.05 12:14:28] [0000m.01s.461ms] [1] SC[286]: UnRegistered sub-client [EEVM_EEVM_569061792] with ID [2] for session ID [286] host [DESKTOP-H15QKG3] user [shrou] process ID [2992]
+[2025.12.05 12:14:28] [0000m.01s.466ms] [1] SC[286]: Registered sub-client [EEVM_EEVM_569061792] with ID [3] for session ID [286] host [DESKTOP-H15QKG3] user [shrou] process ID [2992]
+[2025.12.05 12:14:28] [0000m.01s.477ms] [1] SC[286]: UnRegistered sub-client [EEVM_EEVM_569061792] with ID [3] for session ID [286] host [DESKTOP-H15QKG3] user [shrou] process ID [2992]
+[2025.12.05 12:14:32] [0000m.06s.082ms] [1] SC[286]: UnRegistered sub-client [Expedition PCB_117207218] with ID [1] for session ID [286] host [DESKTOP-H15QKG3] user [shrou] process ID [2992]
+[2025.12.05 12:14:32] [0000m.06s.103ms] [1] CMT: Removed client [286]
+[2025.12.05 12:14:32] [0000m.06s.104ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2025.12.05 12:14:34] [0000m.07s.406ms] [0] CMT: Starting server auto-close
+[2025.12.05 12:14:34] [0000m.07s.418ms] [0] S: Closing server
+[2025.12.05 12:14:34] [0000m.07s.653ms] [1] PrjBackupMgr: Successfully created Project Backup [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\ProjectBackup\backups\2025-12-05 12.14.27 - auto.zip] with GUID [58a4-9b7c-89d3-eb84-3acc-2399-acc2-3960-c0f9-7454-bf6d-4941]
+[2025.12.05 12:14:34] [0000m.07s.653ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[f233-3831-002c-650d-0c25-0396-c250-3960-c81a-7454-bf6d-4941] CreationTime[Wednesday, December 03, 2025 15:09:52] Type[Autosave] Creator[iCDB Server (2025-12-03 15.09.52-24144)] ApplicationName[iCDB Server (2025-12-03 15.09.52-24144)] UserName[shrou] MachineName[DESKTOP-H15QKG3] Description[Autosave] FullFlowName[Xpedition Value Based Add Ons 2510; Xpedition Standard 2510] FlowId[XPED2510] GBSInstallId[76190007; 76190076] GBSBuildId[17496615] IcdbVersion[4700] ReferenceLogFilePath[] BackupFilePath[C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\ProjectBackup\backups\2025-12-03 15.09.52 - auto.zip] BackupFileSize[4896188] Persistent[FALSE]
+[2025.12.05 12:14:34] [0000m.07s.654ms] [0] PrjBackupMgr: Project Backup file [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\ProjectBackup\backups\2025-12-03 15.09.52 - auto.zip] with GUID [f233-3831-002c-650d-0c25-0396-c250-3960-c81a-7454-bf6d-4941] removed
+[2025.12.05 12:14:34] [0000m.07s.654ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[58a4-9b7c-89d3-eb84-3acc-2399-acc2-3960-c0f9-7454-bf6d-4941] CreationTime[Friday, December 05, 2025 12:14:27] Type[Autosave] Creator[iCDB Server (2025-12-05 12.14.26-9928)] ApplicationName[iCDB Server (2025-12-05 12.14.26-9928)] UserName[shrou] MachineName[DESKTOP-H15QKG3] Description[Autosave] FullFlowName[Xpedition Value Based Add Ons 2510; Xpedition Standard 2510] FlowId[XPED2510] GBSInstallId[76190007; 76190076] GBSBuildId[17496615] IcdbVersion[4700] ReferenceLogFilePath[] BackupFilePath[C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\ProjectBackup\backups\2025-12-05 12.14.27 - auto.zip] BackupFileSize[4908585] Persistent[FALSE]
+[2025.12.05 12:14:34] [0000m.07s.755ms] [0] iCDB Server PI: Closing plugins
+[2025.12.05 12:14:34] [0000m.07s.756ms] [0] iCDB Server PI: Plugins closed
+[2025.12.05 12:14:34] [0000m.07s.756ms] [0] iCDB Server PI: Unloading database
+[2025.12.05 12:14:34] [0000m.07s.756ms] [0] iCDB Server PI: Saving storage
+[2025.12.05 12:14:34] [0000m.07s.756ms] [0] iCDB Server PI: Closing database
+[2025.12.05 12:14:34] [0000m.07s.758ms] [1] iCDB Server PI: Stats: Database defragmentation: max[2] avg[1] holes[0%] data[94%]
+[2025.12.05 12:14:34] [0000m.07s.758ms] [1] iCDB Server PI: Stats: Database file size [179292 (175.1 kB)]
+[2025.12.05 12:14:34] [0000m.07s.759ms] [1] iCDB Server PI: WARNING: Database needs defragmentation!
+[2025.12.05 12:14:34] [0000m.07s.770ms] [0] iCDB Server PI: Database closed
+[2025.12.05 12:14:34] [0000m.07s.770ms] [0] iCDB Server PI: Defragmenting database
+[2025.12.05 12:14:34] [0000m.07s.770ms] [0] iCDB Server PI: Creating database [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\database] backup to file [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\database\cdbback\2025-12-05 12.14.34-9928-d.zip]
+[2025.12.05 12:14:34] [0000m.07s.892ms] [0] iCDB Server PI: Database backup: DONE
+[2025.12.05 12:14:34] [0000m.07s.950ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2025.12.05 12:14:34] [0000m.07s.950ms] [0] Database GUARD OK: [179292]
+[2025.12.05 12:14:34] [0000m.07s.950ms] [0] SingleFile: [b121-4f00-a0a5-f4a7] SFI version check [1009] [1009]
+[2025.12.05 12:14:34] [0000m.07s.959ms] [0] SingleFile: [b121-4f00-a0a5-f4a7] Database SFI header has been read in [9ms 544us]
+[2025.12.05 12:14:34] [0000m.07s.993ms] [1] iCDB Server PI: Stats: Database file sizes: before[179292 (175.1 kB)], after[173440 (169.4 kB)], gain[5852 (5.7 kB)]
+[2025.12.05 12:14:34] [0000m.07s.995ms] [0] Single file [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\database\icdb.dat] closed with size [173440 (169.4 kB)]
+[2025.12.05 12:14:34] [0000m.08s.016ms] [0] iCDB Server PI: Database defragmentation completed successfully
+[2025.12.05 12:14:34] [0000m.08s.016ms] [1] BackupTransaction: Removing database backup [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\database\cdbback\2025-12-05 12.14.34-9928-d.zip]
+[2025.12.05 12:14:34] [0000m.08s.017ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [111880] ticks
+[2025.12.05 12:14:34] [0000m.08s.017ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [11188] microseconds
+[2025.12.05 12:14:34] [0000m.08s.017ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [2]
+[2025.12.05 12:14:34] [0000m.08s.017ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [178] commands per second
+[2025.12.05 12:14:34] [0000m.08s.017ms] [1] iCDB Server PI: Stats: Mem[10174464]
+[2025.12.05 12:14:34] [0000m.08s.017ms] [1] iCDB Server PI: Stats: MemPeak[31174656]
+[2025.12.05 12:14:34] [0000m.08s.247ms] [0] MWT: Destroy the shutdown block reason.
+[2025.12.05 12:14:34] [0000m.08s.249ms] [0] MWT: STOP
+[2025.12.05 12:14:34] [0000m.08s.249ms] [0] S: STOP

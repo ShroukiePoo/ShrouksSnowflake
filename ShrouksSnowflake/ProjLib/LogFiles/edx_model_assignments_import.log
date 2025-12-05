@@ -1,0 +1,27 @@
+
+                ----------
+                EDX Import
+                ----------
+
+Start time: 2025-11-26 14:46:26
+
+
+    Importing Model Assignment Data
+        Settings
+            Package: C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\.\pq_edx
+
+    
+        
+        Importing 3D Models assignments
+            Processing 3D Model references data: PANASONICELECTRONICCOMPONE_CR-2477_HFN
+                Mapping data saved
+                Alignment data saved
+                Verification data saved
+            Processing 3D Model references data: RENATABATTERIES_CR2477NRH-LF
+                Mapping data saved
+                Alignment data saved
+                Verification data saved
+
+    Completed.
+
+End time: 2025-11-26 14:46:26

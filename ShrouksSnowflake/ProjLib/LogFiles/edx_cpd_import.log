@@ -1,0 +1,20 @@
+
+                ----------
+                EDX Import
+                ----------
+
+Start time: 2025-11-26 14:46:20
+
+
+    Importing Component Parametric Data
+        Settings
+            Package: C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\.\pq_edx
+        
+        Processing container edx/ComponentContainer1.xml
+            Partition Batteries
+                Component  PANASONICELECTRONICCOMPONE_CR-2477_HFN
+                Component  RENATABATTERIES_CR2477NRH-LF
+
+    Completed.
+
+End time: 2025-11-26 14:46:22

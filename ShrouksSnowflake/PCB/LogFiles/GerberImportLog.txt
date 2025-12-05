@@ -1,0 +1,39 @@
+
+                                  GerberImport
+                                  ------------
+
+                       06:10 PM Friday, December 05, 2025
+Job Name: C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\PCB\Board1.pcb
+
+    GPF File "C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\PCB\Output\Gerber\GerberPlot.gpf" loaded successfully.
+    
+    Gerber File "BoardOutline.gdo" imported successfully.
+    
+    Gerber File "SoldermaskBottom.gdo" imported successfully.
+    
+    Gerber File "DrillDrawingThrough.gdo" imported successfully.
+    
+    Gerber File "SolderPasteTop.gdo" imported successfully.
+    
+    Gerber File "GeneratedSilkscreenBottom.gdo" imported successfully.
+    
+    Gerber File "GeneratedSilkscreenTop.gdo" imported successfully.
+    
+    Gerber File "SolderPasteBottom.gdo" imported successfully.
+    
+    Gerber File "AssemblyBot.gdo" imported successfully.
+    
+    Gerber File "SoldermaskTop.gdo" imported successfully.
+    
+    Gerber File "EtchLayer1Top.gdo" imported successfully.
+    
+    Gerber File "EtchLayer2.gdo" imported successfully.
+    
+    Gerber File "EtchLayer3.gdo" imported successfully.
+    
+    Gerber File "AssemblyTop.gdo" imported successfully.
+    
+    Gerber File "EtchLayer4Bottom.gdo" imported successfully.
+    
+    Gerber plot setup file C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\PCB\Output\Gerber\GerberPlot.gpf imported successfully.
+    

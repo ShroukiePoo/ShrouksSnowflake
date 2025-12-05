@@ -1,0 +1,10 @@
+
+Schematic unused pins from : Packager  27-Nov-2025  15:44
+
+------------------------------------------------------------------------
+            Part/Reference             |          Unused pins
+                                       |  (G) - Gate, (P) - Partial Gate
+------------------------------------------------------------------------
+ Part SMTU_2477N-1-LF                  |
+ Part VISHAYINTERTECHNOLOGIE_CRCW08052K00JNEA |
+ Part WURTHELEKTRONIK_150060RS75000    |

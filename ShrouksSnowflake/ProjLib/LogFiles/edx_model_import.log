@@ -1,0 +1,28 @@
+
+                ----------
+                EDX Import
+                ----------
+
+Start time: 2025-11-26 14:46:19
+
+
+    Importing Model Data
+        Settings
+            Package: C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\.\pq_edx
+        
+        Processing model container edx/ModelContainer1.xml
+            Processing 3D Model partition: Partquest
+                Fetching 3D Model: RENATABATTERIES_CR2477NRH-LF
+                    Data extracted succesfully.
+                Fetching 3D Model: PANASONICELECTRONICCOMPONE_CR-2477_HFN
+                    Data extracted succesfully.
+        
+        Import of 3D Models in native format
+            Importing 3D Model from: PANASONICELECTRONICCOMPONE_CR-2477_HFN.stp
+                3D Model import successful
+            Importing 3D Model from: RENATABATTERIES_CR2477NRH-LF.stp
+                3D Model import successful
+
+    Completed.
+
+End time: 2025-11-26 14:46:26

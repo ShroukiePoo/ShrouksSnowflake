@@ -1,0 +1,21 @@
+.FILETYPE CCZ_EXPORT_SETTINGS
+.VERSION "VB99.1"
+.DATE "11/28/2025 17:53:30"
+
+!  This file contains settings for the most recent CCZ export session
+
+.OUTPUT_FILE "C:\\Projects\\3. 12th May to\\2. Siemens\\2. Daves Training\\ShrouksSnowflake\\PCB\\Output\\PADS Connect\\Board1.cce"
+.UNITS in
+
+.CELL_LIBRARY 0
+
+.HAZARDS 0
+
+.MATERIALS 1
+
+.UID 0
+
+.INSTANCE_SPECIFIC_CELLS 0
+
+.VARIANTS 1
+

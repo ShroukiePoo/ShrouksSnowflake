@@ -1,0 +1,14 @@
+.FILETYPE DXF_IMPORT_SETTINGS
+.VERSION "VB99.1"
+.DATE "11/27/2025 11:13:33"
+
+!  This file contains settings for the most recent DXF import session
+
+.DXF_INPUT_FILE "C:\\Projects\\3. 12th May to\\2. Siemens\\2. Daves Training\\AdjustedSnowflake.dxf"
+.UNITS mm
+
+.SCALE 1
+
+.DXF_STYLE "STANDARD"
+ ..USER_FONT ""
+

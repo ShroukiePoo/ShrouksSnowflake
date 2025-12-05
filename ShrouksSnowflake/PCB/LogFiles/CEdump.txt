@@ -1,0 +1,63 @@
+==========================================================================================
+CE dump: 1
+Toolbar dump:
+=============================
+(ID=32783, style="TBBS_CHECKBOX", image=0)
+(ID=32784, style="TBBS_CHECKBOX", image=1)
+(ID=32790, style="TBBS_CHECKBOX, TBBS_CHECKED, TBBS_HIDDEN", image=2)
+(ID=    0, style="TBBS_SEPARATOR", image=6)
+(ID=32808, style="TBBS_CHECKBOX", image=3)
+(ID=    0, style="TBBS_SEPARATOR", image=6)
+(ID=32809, style="TBBS_CHECKBOX", image=4)
+(ID=32810, style="TBBS_CHECKBOX", image=5)
+(ID=32815, style="TBBS_CHECKBOX", image=6)
+(ID=    0, style="TBBS_SEPARATOR", image=6)
+(ID=32843, style="TBBS_CHECKBOX", image=7)
+(ID=    0, style="TBBS_SEPARATOR", image=6)
+(ID=32785, style="TBBS_BUTTON", image=8)
+(ID=32786, style="TBBS_BUTTON, TBBS_DISABLED", image=9)
+(ID=    0, style="TBBS_SEPARATOR", image=6)
+(ID=32812, style="TBBS_CHECKBOX, TBBS_CHECKED", image=10)
+(ID=32814, style="TBBS_BUTTON", image=11)
+=============================
+
+Tree dump:
+
+Tree Buttons:
+Button : typeName="CFlatButton" windowText="" enabled="1" style="BS_TEXT, BS_ICON, BS_FLAT" type="ownerdraw"
+Button : typeName="CFlatButton" windowText="" enabled="1" style="BS_TEXT, BS_ICON, BS_FLAT" type="ownerdraw"
+Button : typeName="CFlatButton" windowText="" enabled="1" style="BS_TEXT, BS_ICON, BS_FLAT" type="ownerdraw"
+
+-s +b +e - Board|Board
+Board1 | Board1
+
++s -b -e - Group|Group
+Board1/Newgroup9 | Newgroup9
+
+-s -b -e - Spare|Spare
+Spares | Spares
+
+-s -b -e - Mechanical|Mechanical
+Mechanical Cells | Mechanical Cells
+
+-s -b -e - Drawing|Drawing
+Drawing Cells | Drawing Cells
+
+-s -b +e - PhysicalReuseCircuit|PhysicalReuseCircuit
+Physical Reuse Circuits | Physical Reuse Circuits
+
+
+Components tab:
+|          | +h | -h | -h | -h | -h | -h | -h | +h | -h | +h | +h | +h | +h | -h | +h | +h | +h | +h | +h 
+| -s -f -h |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    
+| -s -f -h |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    
+
+
+Cell preview dialog closed.
+Connection options dialog closed.
+Options dialog closed.
+Placement settings dialog closed.
+Properties dialog closed.
+Display Columns dialog closed.
+------------------------------------------------------------------------------------------
+

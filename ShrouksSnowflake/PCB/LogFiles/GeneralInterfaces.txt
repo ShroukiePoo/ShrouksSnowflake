@@ -1,0 +1,24 @@
+
+                       Xpedition Layout General Interfaces
+                       -----------------------------------
+
+                      09:51 AM Wednesday, December 03, 2025
+Job Name: C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\PCB\Board1.pcb
+
+
+**** WARNING - Conductive shapes, including RF shapes, in the design, will be output as planes.
+
+Processing Setup Parameters
+Processing Padstack Definitions
+	Processing PadStack Pads
+	Processing PadStack Definitions
+Processing Cell Library
+Processing Parts Library
+Processing Design Data
+
+OUTPUT :
+    Generating GenCAD Data
+	C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\PCB\Output\gencad.cad
+
+Process Completed Successfully.
+

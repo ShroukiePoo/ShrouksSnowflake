@@ -1,0 +1,16 @@
+Xpedition Layout Version: 125.0.1779.3123
+
+
+
+Environment Variables:
+----------------------
+VALOR_ENV_FILE = "C:\SiemensEDA\XPED2510\SDD_HOME\Valor_NPI\env"
+HOME = "C:\SPB_Data"
+HOMEDRIVE = "C:"
+HOMEPATH = "\Users\shrou"
+MGC_HOME = "C:\SiemensEDA\XPED2510\MGC_HOME.ixw"
+OS = "Windows_NT"
+PATH = "C:\SiemensEDA\XPED2510\SDD_HOME\xe\win64\lib;C:\SiemensEDA\XPED2510\SDD_HOME\common\win64\bin;C:\SiemensEDA\XPED2510\SDD_HOME\common\win64\lib;C:\SiemensEDA\XPED2510\SDD_HOME\common\win32\lib;C:\SiemensEDA\XPED2510\SDD_HOME\common\win64\jre\default\bin;C:\SiemensEDA\XPED2510\MGC_HOME.ixw\bin;C:\SiemensEDA\XPED2510\MGC_HOME.ixw\lib;C:\SiemensEDA\XPED2510\SDD_HOME\wg\win64\lib;C:\SiemensEDA\XPED2510\SDD_HOME\common3D\win64\lib;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Program Files\dotnet\;C:\Program Files\WireGuard\;C:\Program Files\PuTTY\;C:\Program Files\Docker\Docker\resources\bin;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Muse Hub\lib;C:\Users\shrou\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\shrou\AppData\Local\Programs\Python\Python310\;C:\Users\shrou\AppData\Local\Microsoft\WindowsApps;C:\Users\shrou\AppData\Local\GitHubDesktop\bin;C:\Users\shrou\AppData\Local\atom\bin;C:\Users\shrou\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\shrou\AppData\Local\Microsoft\WindowsApps;C:\Users\shrou\AppData\Local\Muse Hub\lib;"
+SDD_HOME = "C:\SiemensEDA\XPED2510\SDD_HOME"
+TEMP = "C:\Users\shrou\AppData\Local\Temp"
+TMP = "C:\Users\shrou\AppData\Local\Temp"

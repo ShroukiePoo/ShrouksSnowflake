@@ -1,0 +1,39 @@
+
+                ----------
+                EDX Import
+                ----------
+
+Start time: 2025-11-26 14:46:19
+
+
+    Processing Package
+        Reading: edx/Content.xml
+            Reading: edx/_rels/Content.xml.rels
+        Reading: edx/LibraryArchiveContainer1.xml
+            Reading: edx/_rels/LibraryArchiveContainer1.xml.rels
+        Reading: edx/ArchiveFiles1.xml
+            Reading: edx/_rels/ArchiveFiles1.xml.rels
+        Reading: edx/ArchiveFiles2.xml
+            Reading: edx/_rels/ArchiveFiles2.xml.rels
+
+    Importing Package
+        Settings
+            Package: C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\.\pq_edx
+            Library: C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\ProjLib\ShrouksSnowflake.lmp
+            Overwrite: All
+            On Error: Continue
+        
+        Importing Library
+            Importing Symbol Partition: PartQuest
+                Importing Symbol: PANASONICELECTRONICCOMPONE_CR-2477_HFN
+                Importing Symbol: RENATABATTERIES_CR2477NRH-LF
+            Committing Partition: PartQuest
+            Importing Part Partition: PartQuest
+                Importing Part: PANASONICELECTRONICCOMPONE_CR-2477_HFN
+                Importing Part: RENATABATTERIES_CR2477NRH-LF
+            Committing Partition: PartQuest
+        Handling Pin Changes
+
+    Completed.
+
+End time: 2025-11-26 14:46:20

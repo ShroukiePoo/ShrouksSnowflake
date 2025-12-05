@@ -1,0 +1,27 @@
+=======================================================================
+Xpedition Layout - Version 125.0.1779.3123
+=======================================================================
+
+RELOAD CELLS
+
+Job Directory:  C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\PCB\
+
+
+Design Units:(th)
+
+Replace Cell Log:   repCellLog01.txt
+
+Thu Nov 27 11:10:32 2025
+
+Reference Designator            Cell Name                         New Cell Name
+===============================================================================
+
+
+---------------  RELOAD CELLS  Thu Nov 27 11:10:32 2025  ---------------
+
+
+
+
+---------------    Thu Nov 27 11:10:32 2025  ---------------
+
+

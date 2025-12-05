@@ -1,0 +1,63 @@
+
+Schematic Net Listing
+-------------------------------- -------------------------------- --- --- ------ --- --- ------ ------ - -------------------- ---
+Part                             Reference                        Sym Sub    Pin Eqv Sub   Pin     Pin Phantom    Net         Net
+Number                           Designator                       Num Typ    Id  Cls Pak   Text    Num Flag       Name        Num
+-------------------------------- -------------------------------- --- --- ------ --- --- ------ ------ - -------------------- ---
+SMTU_2477N-1-LF                  BT100                             26   1      1   1   1 1           1 0 +3VTop              (25-24-13)
+SMTU_2477N-1-LF                  BT100                             26   1      2   2   1 2           2 0 GND                 (5-11-13)
+SMTU_2477N-1-LF                  BT200                             25   1      1   1   1 1           1 0 +3VBot              (25-25-13)
+SMTU_2477N-1-LF                  BT200                             25   1      2   2   1 2           2 0 GND                 (5-11-13)
+VISHAYINTERTECHNOLOGIE_CRCW08052 R100                              12   1      1   1   1 1           1 0 $1N12_BatteryLEDsFro(5-9-13)
+VISHAYINTERTECHNOLOGIE_CRCW08052 R100                              12   1      2   2   1 2           2 0 +3VTop              (25-24-13)
+VISHAYINTERTECHNOLOGIE_CRCW08052 R101                              11   1      1   1   1 1           1 0 $1N15_BatteryLEDsFro(5-12-13)
+VISHAYINTERTECHNOLOGIE_CRCW08052 R101                              11   1      2   2   1 2           2 0 +3VTop              (25-24-13)
+VISHAYINTERTECHNOLOGIE_CRCW08052 R102                              10   1      1   1   1 1           1 0 $1N18_BatteryLEDsFro(5-13-13)
+VISHAYINTERTECHNOLOGIE_CRCW08052 R102                              10   1      2   2   1 2           2 0 +3VTop              (25-24-13)
+VISHAYINTERTECHNOLOGIE_CRCW08052 R103                               9   1      1   1   1 1           1 0 $1N21_BatteryLEDsFro(5-14-13)
+VISHAYINTERTECHNOLOGIE_CRCW08052 R103                               9   1      2   2   1 2           2 0 +3VTop              (25-24-13)
+VISHAYINTERTECHNOLOGIE_CRCW08052 R104                               8   1      1   1   1 1           1 0 $1N24_BatteryLEDsFro(5-15-13)
+VISHAYINTERTECHNOLOGIE_CRCW08052 R104                               8   1      2   2   1 2           2 0 +3VTop              (25-24-13)
+VISHAYINTERTECHNOLOGIE_CRCW08052 R105                               7   1      1   1   1 1           1 0 $1N27_BatteryLEDsFro(5-16-13)
+VISHAYINTERTECHNOLOGIE_CRCW08052 R105                               7   1      2   2   1 2           2 0 +3VTop              (25-24-13)
+VISHAYINTERTECHNOLOGIE_CRCW08052 R200                               6   1      1   1   1 1           1 0 $1N12_BatteryLEDsBac(5-25-13)
+VISHAYINTERTECHNOLOGIE_CRCW08052 R200                               6   1      2   2   1 2           2 0 +3VBot              (25-25-13)
+VISHAYINTERTECHNOLOGIE_CRCW08052 R201                               5   1      1   1   1 1           1 0 $1N15_BatteryLEDsBac(5-26-13)
+VISHAYINTERTECHNOLOGIE_CRCW08052 R201                               5   1      2   2   1 2           2 0 +3VBot              (25-25-13)
+VISHAYINTERTECHNOLOGIE_CRCW08052 R202                               4   1      1   1   1 1           1 0 $1N18_BatteryLEDsBac(5-27-13)
+VISHAYINTERTECHNOLOGIE_CRCW08052 R202                               4   1      2   2   1 2           2 0 +3VBot              (25-25-13)
+VISHAYINTERTECHNOLOGIE_CRCW08052 R203                               3   1      1   1   1 1           1 0 $1N21_BatteryLEDsBac(5-28-13)
+VISHAYINTERTECHNOLOGIE_CRCW08052 R203                               3   1      2   2   1 2           2 0 +3VBot              (25-25-13)
+VISHAYINTERTECHNOLOGIE_CRCW08052 R204                               2   1      1   1   1 1           1 0 $1N24_BatteryLEDsBac(5-29-13)
+VISHAYINTERTECHNOLOGIE_CRCW08052 R204                               2   1      2   2   1 2           2 0 +3VBot              (25-25-13)
+VISHAYINTERTECHNOLOGIE_CRCW08052 R205                               1   1      1   1   1 1           1 0 $1N27_BatteryLEDsBac(5-30-13)
+VISHAYINTERTECHNOLOGIE_CRCW08052 R205                               1   1      2   2   1 2           2 0 +3VBot              (25-25-13)
+WURTHELEKTRONIK_150060RS75000    LED100                            24   1      1   1   1 1           1 0 GND                 (5-11-13)
+WURTHELEKTRONIK_150060RS75000    LED100                            24   1      2   2   1 2           2 0 $1N12_BatteryLEDsFro(5-9-13)
+WURTHELEKTRONIK_150060RS75000    LED101                            23   1      1   1   1 1           1 0 GND                 (5-11-13)
+WURTHELEKTRONIK_150060RS75000    LED101                            23   1      2   2   1 2           2 0 $1N15_BatteryLEDsFro(5-12-13)
+WURTHELEKTRONIK_150060RS75000    LED102                            22   1      1   1   1 1           1 0 GND                 (5-11-13)
+WURTHELEKTRONIK_150060RS75000    LED102                            22   1      2   2   1 2           2 0 $1N18_BatteryLEDsFro(5-13-13)
+WURTHELEKTRONIK_150060RS75000    LED103                            21   1      1   1   1 1           1 0 GND                 (5-11-13)
+WURTHELEKTRONIK_150060RS75000    LED103                            21   1      2   2   1 2           2 0 $1N21_BatteryLEDsFro(5-14-13)
+WURTHELEKTRONIK_150060RS75000    LED104                            20   1      1   1   1 1           1 0 GND                 (5-11-13)
+WURTHELEKTRONIK_150060RS75000    LED104                            20   1      2   2   1 2           2 0 $1N24_BatteryLEDsFro(5-15-13)
+WURTHELEKTRONIK_150060RS75000    LED105                            19   1      1   1   1 1           1 0 GND                 (5-11-13)
+WURTHELEKTRONIK_150060RS75000    LED105                            19   1      2   2   1 2           2 0 $1N27_BatteryLEDsFro(5-16-13)
+WURTHELEKTRONIK_150060RS75000    LED200                            18   1      1   1   1 1           1 0 GND                 (5-11-13)
+WURTHELEKTRONIK_150060RS75000    LED200                            18   1      2   2   1 2           2 0 $1N12_BatteryLEDsBac(5-25-13)
+WURTHELEKTRONIK_150060RS75000    LED201                            17   1      1   1   1 1           1 0 GND                 (5-11-13)
+WURTHELEKTRONIK_150060RS75000    LED201                            17   1      2   2   1 2           2 0 $1N15_BatteryLEDsBac(5-26-13)
+WURTHELEKTRONIK_150060RS75000    LED202                            16   1      1   1   1 1           1 0 GND                 (5-11-13)
+WURTHELEKTRONIK_150060RS75000    LED202                            16   1      2   2   1 2           2 0 $1N18_BatteryLEDsBac(5-27-13)
+WURTHELEKTRONIK_150060RS75000    LED203                            15   1      1   1   1 1           1 0 GND                 (5-11-13)
+WURTHELEKTRONIK_150060RS75000    LED203                            15   1      2   2   1 2           2 0 $1N21_BatteryLEDsBac(5-28-13)
+WURTHELEKTRONIK_150060RS75000    LED204                            14   1      1   1   1 1           1 0 GND                 (5-11-13)
+WURTHELEKTRONIK_150060RS75000    LED204                            14   1      2   2   1 2           2 0 $1N24_BatteryLEDsBac(5-29-13)
+Schematic Net Listing
+-------------------------------- -------------------------------- --- --- ------ --- --- ------ ------ - -------------------- ---
+Part                             Reference                        Sym Sub    Pin Eqv Sub   Pin     Pin Phantom    Net         Net
+Number                           Designator                       Num Typ    Id  Cls Pak   Text    Num Flag       Name        Num
+-------------------------------- -------------------------------- --- --- ------ --- --- ------ ------ - -------------------- ---
+WURTHELEKTRONIK_150060RS75000    LED205                            13   1      1   1   1 1           1 0 GND                 (5-11-13)
+WURTHELEKTRONIK_150060RS75000    LED205                            13   1      2   2   1 2           2 0 $1N27_BatteryLEDsBac(5-30-13)

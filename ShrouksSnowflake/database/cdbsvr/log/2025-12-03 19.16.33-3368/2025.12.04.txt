@@ -1,0 +1,71 @@
+[2025.12.04 02:36:32] [0439m.59s.312ms] [1] PrjBackupMgr: Successfully created Project Backup [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\ProjectBackup\backups\2025-12-04 02.36.29 - auto.zip] with GUID [6f19-bb43-6779-5a93-ca3f-0392-b3f0-3960-c5b9-7454-bf6d-4941]
+[2025.12.04 02:36:32] [0439m.59s.314ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[e5b5-80b0-9c68-e8f7-04df-f296-4dff-2960-8697-7454-bf6d-4941] CreationTime[Wednesday, December 03, 2025 09:05:04] Type[Autosave] Creator[iCDB Server (2025-12-03 09.05.04-7600)] ApplicationName[iCDB Server (2025-12-03 09.05.04-7600)] UserName[shrou] MachineName[DESKTOP-H15QKG3] Description[Autosave] FullFlowName[Xpedition Value Based Add Ons 2510; Xpedition Standard 2510] FlowId[XPED2510] GBSInstallId[76190007; 76190076] GBSBuildId[17496615] IcdbVersion[4700] ReferenceLogFilePath[] BackupFilePath[C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\ProjectBackup\backups\2025-12-03 09.05.04 - auto.zip] BackupFileSize[3553336] Persistent[FALSE]
+[2025.12.04 02:36:32] [0439m.59s.315ms] [0] PrjBackupMgr: Project Backup file [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\ProjectBackup\backups\2025-12-03 09.05.04 - auto.zip] with GUID [e5b5-80b0-9c68-e8f7-04df-f296-4dff-2960-8697-7454-bf6d-4941] removed
+[2025.12.04 02:36:32] [0439m.59s.315ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[6f19-bb43-6779-5a93-ca3f-0392-b3f0-3960-c5b9-7454-bf6d-4941] CreationTime[Thursday, December 04, 2025 02:36:29] Type[Autosave] Creator[iCDB Server (2025-12-03 19.16.33-3368)] ApplicationName[iCDB Server (2025-12-03 19.16.33-3368)] UserName[shrou] MachineName[DESKTOP-H15QKG3] Description[Autosave] FullFlowName[Xpedition Value Based Add Ons 2510; Xpedition Standard 2510] FlowId[XPED2510] GBSInstallId[76190007; 76190076] GBSBuildId[17496615] IcdbVersion[4700] ReferenceLogFilePath[] BackupFilePath[C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\ProjectBackup\backups\2025-12-04 02.36.29 - auto.zip] BackupFileSize[4900783] Persistent[FALSE]
+[2025.12.04 03:38:06] [0501m.33s.335ms] [0] MWT: WM_QUERYENDSESSION
+[2025.12.04 03:38:06] [0501m.33s.335ms] [0] MWT: Requesting emergency server stop: Got a message: WM_QUERYENDSESSION
+[2025.12.04 03:38:06] [0501m.33s.358ms] [0] Removing server address file.
+[2025.12.04 03:38:06] [0501m.33s.440ms] [0] S: Closing server
+[2025.12.04 03:38:06] [0501m.33s.440ms] [4] SMCL: Distributing notify to registered [General] iCDB Server Manager clients [NotifyServerStatus @ Version[1] # Id[Sender GUID[9571-325b-49c6-390b-19c8-0397-9c80-3960-4f39-7454-bf6d-4941] Command number[141]] # Proxy[EMPTY] # RequestId[Sender GUID[0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000] Command number[0]] # ReplyPort[10000] # Status [Closing]]
+[2025.12.04 03:38:06] [0501m.33s.440ms] [3] IT: FREE
+[2025.12.04 03:38:06] [0501m.33s.440ms] [4] IT: Waiting for finish
+[2025.12.04 03:38:06] [0501m.33s.440ms] [4] IT: Empty client connection popped from the waiting queue
+[2025.12.04 03:38:06] [0501m.33s.440ms] [2] IT: STOP
+[2025.12.04 03:38:06] [0501m.33s.440ms] [3] ET: Suspend request
+[2025.12.04 03:38:06] [0501m.33s.440ms] [3] ET: Suspend request finished
+[2025.12.04 03:38:06] [0501m.33s.440ms] [2] SCL: Removing all clients
+[2025.12.04 03:38:06] [0501m.33s.440ms] [3] SC[282]: FREE
+[2025.12.04 03:38:06] [0501m.33s.441ms] [2] ET: SUSPENDED
+[2025.12.04 03:38:06] [0501m.33s.441ms] [4] SMCL: Distributing notify to registered [ClientList] iCDB Server Manager clients [NotifyServerClientRemove @ Version[1] # Id[Sender GUID[9571-325b-49c6-390b-19c8-0397-9c80-3960-4f39-7454-bf6d-4941] Command number[142]] # Proxy[EMPTY] # RequestId[Sender GUID[0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000] Command number[0]] # ReplyPort[10000] # Client [Address[DESKTOP-H15QKG3] User[shrou] PID[22192] Session[282] Status[Active] Dead elapsed time sec[0] Version[3.253] Sub-clients[ ( Sub-client[Name[Expedition PCB_36932171] Id[1]], Sub-client[Name[ExpeditionCrossProber] Id[7]])]]]
+[2025.12.04 03:38:06] [0501m.33s.441ms] [3] CRT[282]: FREE
+[2025.12.04 03:38:06] [0501m.33s.441ms] [4] CRT[282]: Waiting for finish
+[2025.12.04 03:38:07] [0501m.33s.540ms] [2] CRT[282]: STOP
+[2025.12.04 03:38:07] [0501m.33s.541ms] [3] CST[282]: FREE
+[2025.12.04 03:38:07] [0501m.33s.541ms] [4] CST[282]: Waiting for finish
+[2025.12.04 03:38:07] [0501m.33s.541ms] [2] CST[282]: STOP
+[2025.12.04 03:38:07] [0501m.33s.541ms] [1] SC[282]: WARNING: Session is still active while destroying
+[2025.12.04 03:38:07] [0501m.33s.541ms] [2] SC[282]: Disconnecting from peer
+[2025.12.04 03:38:07] [0501m.33s.541ms] [6] iCDB Server PI: ReleaseOpenSnapshotRefCount [5]: 0
+[2025.12.04 03:38:07] [0501m.33s.541ms] [3] iCDB Server PI: No one is using snapshot [5] - removing from cache
+[2025.12.04 03:38:07] [0501m.33s.541ms] [6] iCDB Storage Server: Checking existence of file [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\database\s5\cdbblks\2000000010000050.blk\rbcatl.v]
+[2025.12.04 03:38:07] [0501m.33s.541ms] [6] iCDB Storage Server: File [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\database\s5\cdbblks\2000000010000050.blk\rbcatl.v] doesn't exist
+[2025.12.04 03:38:07] [0501m.33s.541ms] [6] iCDB Storage Server: Checking existence of file [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\database\s5\cdbblks\5000000020000050.blk\rbcatl.v]
+[2025.12.04 03:38:07] [0501m.33s.541ms] [6] iCDB Storage Server: File [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\database\s5\cdbblks\5000000020000050.blk\rbcatl.v] doesn't exist
+[2025.12.04 03:38:07] [0501m.33s.542ms] [6] iCDB Storage Server: Checking existence of file [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\database\s5\uids]
+[2025.12.04 03:38:07] [0501m.33s.542ms] [6] iCDB Storage Server: File [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\database\s5\uids] exists
+[2025.12.04 03:38:07] [0501m.33s.542ms] [4] iCDB SnapshotMap: Snapshot [5] removed
+[2025.12.04 03:38:07] [0501m.33s.542ms] [6] iCDB Storage Server: Unloading directory [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\database\s5]
+[2025.12.04 03:38:07] [0501m.33s.542ms] [6] iCDB Storage Server: Unloading file [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\database\s5\cdbblks\2000000010000050.blk\blk_obj_state]
+[2025.12.04 03:38:07] [0501m.33s.542ms] [6] iCDB Storage Server: Unloading file [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\database\s5\cdbblks\2000000010000050.blk\blkatl.v]
+[2025.12.04 03:38:07] [0501m.33s.542ms] [6] iCDB Storage Server: Unloading file [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\database\s5\cdbblks\5000000020000050.blk\blk_obj_state]
+[2025.12.04 03:38:07] [0501m.33s.542ms] [6] iCDB Storage Server: Unloading file [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\database\s5\cdbblks\5000000020000050.blk\blkatl.v]
+[2025.12.04 03:38:07] [0501m.33s.542ms] [6] iCDB Storage Server: Unloading file [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\database\s5\cdbcatlg\catlgatl.v]
+[2025.12.04 03:38:07] [0501m.33s.542ms] [6] iCDB Storage Server: Unloading file [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\database\s5\cdbcatlg\grpatl.v]
+[2025.12.04 03:38:07] [0501m.33s.542ms] [6] iCDB Storage Server: Unloading file [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\database\s5\cdbcatlg\grpobj]
+[2025.12.04 03:38:07] [0501m.33s.542ms] [6] iCDB Storage Server: Unloading file [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\database\s5\cdbcmpcache\cmp_obj_state]
+[2025.12.04 03:38:07] [0501m.33s.542ms] [6] iCDB Storage Server: Unloading file [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\database\s5\cdbcmpcache\cmpatl.v]
+[2025.12.04 03:38:07] [0501m.33s.542ms] [6] iCDB Storage Server: Unloading file [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\database\s5\cdbcmps\cmp_obj_state]
+[2025.12.04 03:38:07] [0501m.33s.542ms] [6] iCDB Storage Server: Unloading file [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\database\s5\cdbcmps\cmpatl.v]
+[2025.12.04 03:38:07] [0501m.33s.542ms] [6] iCDB Storage Server: Unloading file [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\database\s5\cdbcnfgs\2000000010000050.blk\ces_obj_state]
+[2025.12.04 03:38:07] [0501m.33s.542ms] [6] iCDB Storage Server: Unloading file [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\database\s5\cdbcnfgs\2000000010000050.blk\cesatl.v]
+[2025.12.04 03:38:07] [0501m.33s.543ms] [6] iCDB Storage Server: Unloading file [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\database\s5\cdbcnfgs\2000000010000050.blk\cnfg_obj_state]
+[2025.12.04 03:38:07] [0501m.33s.543ms] [6] iCDB Storage Server: Unloading file [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\database\s5\cdbcnfgs\2000000010000050.blk\cnfgatl.v]
+[2025.12.04 03:38:07] [0501m.33s.543ms] [6] iCDB Storage Server: Unloading file [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\database\s5\cdbcnfgs\2000000010000050.blk\var_obj_state]
+[2025.12.04 03:38:07] [0501m.33s.543ms] [6] iCDB Storage Server: Unloading file [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\database\s5\cdbcnfgs\2000000010000050.blk\varatl.v]
+[2025.12.04 03:38:07] [0501m.33s.543ms] [6] iCDB Storage Server: Unloading file [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\database\s5\dsgn_obj_state]
+[2025.12.04 03:38:07] [0501m.33s.543ms] [6] iCDB Storage Server: Unloading file [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\database\s5\oryg]
+[2025.12.04 03:38:07] [0501m.33s.543ms] [6] iCDB Storage Server: Unloading file [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\database\s5\uids]
+[2025.12.04 03:38:07] [0501m.33s.543ms] [5] iCDB Server PI: Snapshot [5] removed from cache
+[2025.12.04 03:38:07] [0501m.33s.543ms] [3] ET: Discarding pending commands
+[2025.12.04 03:38:07] [0501m.33s.543ms] [3] ET: Resume request
+[2025.12.04 03:38:07] [0501m.33s.543ms] [3] ET: Resume request finished
+[2025.12.04 03:38:07] [0501m.33s.543ms] [2] ET: RESUMED
+[2025.12.04 03:38:07] [0501m.33s.561ms] [2] PrjBackupEngine: STOP
+[2025.12.04 03:38:07] [0501m.33s.567ms] [3] PrjBackupEngine: FREE
+[2025.12.04 03:38:07] [0501m.33s.567ms] [4] PrjBackupEngine: Waiting for finish
+[2025.12.04 03:38:07] [0501m.33s.567ms] [3] ET: FREE
+[2025.12.04 03:38:07] [0501m.33s.567ms] [2] ET: STOP
+[2025.12.04 03:38:07] [0501m.33s.567ms] [4] ET: Waiting for finish
+[2025.12.04 03:38:07] [0501m.33s.567ms] [2] SCL: Stopping all send threads
+[2025.12.04 03:38:07] [0501m.33s.567ms] [3] CMT: FREE
+[2025.12.04 03:38:07] [0501m.33s.567ms] [4] CMT: Waiting for finish

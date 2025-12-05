@@ -1,0 +1,154 @@
+
+                                    Packager
+                                    --------
+
+                      03:44 PM Thursday, November 27, 2025
+Job Name: C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\ShrouksSnowflake.prj
+
+
+         Packager     Version: 020806.00
+
+            Commandline is: ""C:\SiemensEDA\XPED2510\SDD_HOME\wg\win64\bin\package.exe"  "-jC:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\ShrouksSnowflake.prj" -nBoard1 -Refresh -NoFill"
+
+         The Common Database is at "C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\database".
+
+         The Root of this design is "Schematic1".
+
+         The Front End Snapshot of this design is "DxD".
+
+         The PCB Design Path of this design is at "C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\PCB\Board1.pcb".
+
+         The Central Library is at "C:\Projects\3. 12th May to\2. Siemens\Shrouks Library\Sample_Library_XSTD.lmc".
+
+         Unable to determine the Disable Repackage status.
+         !Repackaging will be allowed!
+
+         The PDBs listed in the project file will be searched to satisfy the parts
+          requirements of the iCDB and to refresh with newer data any duplicates found in the
+          Target PDB.
+
+         The AllowAlphaRefDes status indicates that reference
+          designators containing all alpha characters should be deleted
+          and the relevant symbols repackaged.
+
+         The cross mapping of symbol pin names to Part Number pin
+          numbers will be checked for packaged symbols and mapped correctly
+          for unpackaged symbols.
+
+         Properties that have been checked off in the Property Definition Editor
+          found at Library Manager/Common Properties will be checked for value
+          differences between the PartsDB and the non-null properties on symbols.
+         Those properties checked off (other than Part Number)
+          will not be transferred from the PartsDB to symbols.
+         The following properties were checked off in the Property Definition Editor:
+       "Supplier Part Number"
+       "Supplier Name"
+       "Manufacturer Part Number"
+       "Manufacturer Name"
+       "Maximum Latency"
+       "Action_Hyperlink"
+       "Refinement Parent"
+       "Refinement Group"
+       "PinLabel"
+       "System Component"
+       "Pkg Group"
+       "Connector Mating Part"
+       "Connector Gender"
+       "EPFIXEDWIDTH"
+       "EPFIXEDLENGTH"
+       "Term"
+       "SIM_MODEL"
+       "SIM_MODEL_FILE"
+       "Array Component"
+       "ICX_PART_MODEL"
+       "Use Verilog"
+       "Order"
+       "Parametric"
+       "Value2"
+       "Tech"
+       "Power"
+       "Drawing Project"
+       "Drawing Number Vertical"
+       "Variant Number"
+       "Datasheet"
+       "Variant Description"
+       "Variant Name"
+       "Drawing_PDF_Number"
+       "Voltage"
+       "IBIS"
+       "Part Label"
+       "VHDL Model"
+       "Verilog Model"
+       "Tolerance"
+       "Part Number"
+       "Value"
+       "Part Name"
+
+	Checking for errors in the ICDB...
+
+	No errors found.  Proceeding with packaging...
+
+
+
+     Common Data Base has been read
+
+     Target PDB Name: Integration\LocalPartsDB.pdb
+
+     Number of Part Numbers: 3
+          Part Numb: SMTU_2477N-1-LF -> Vend Part: SMTU_2477N-1-LF 
+          Part Numb: VISHAYINTERTECHNOLOGIE_CRCW08052K00JNEA -> Vend Part: VISHAYINTERTECHNOLOGIE_CRCW08052K00JNEA 
+          Part Numb: WURTHELEKTRONIK_150060RS75000 -> Vend Part: WURTHELEKTRONIK_150060RS75000 
+
+     Number of Part Names: 0
+
+     Number of Part Labels: 0
+
+
+     Checking for value differences between non-null symbol properties and PartsDB properties,
+      but only for those properties checked off in the Property Definition Editor
+
+     Checking the validity of the packaging of prepackaged schematic
+      symbols.  Only the first error in symbols having the same
+      Reference Designator will be reported.
+
+     The packaging of all prepackaged schematic symbols is consistent
+      with the Parts DataBase data for the cross mapping of
+      symbol pin names to Part Number pin numbers.
+      Symbols that were not prepackaged will now be packaged correctly.
+      
+     No errors in Existing Schematic Packaging.
+
+     The Common DataBase has been read and will be packaged.
+     Clustering 26 Symbols:
+              26  *************************
+     Clustering is Complete
+
+     Packager Assignments successfully completed
+
+
+
+     15 nets were found containing 52 pins
+     26 components were found
+
+     Parsed netlist - Augmenting..
+
+     Augmented - Adding phantom pins....
+
+     Numbering Nets....
+
+     Checking Pins....
+
+     Packaging has been successfully tested with no errors or warnings.
+
+     Updating the Common DataBase
+
+     A BAM WasIs List: Integration\CDBBackAnno.bam has been created.
+
+The Common DataBase has been successfully updated.
+
+         Packager finished successfully.
+         !THE iCDB IS UP-TO-DATE!
+         
+         An unused pin and gate report has been written to Integration\UnusedPins.txt
+         An unused gate report for gates not in schematic has been written to Integration\UnusedGates.txt
+         An augmented pin report has been written to Integration\AugmentedPins.txt.

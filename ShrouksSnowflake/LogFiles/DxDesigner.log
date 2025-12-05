@@ -1,0 +1,37 @@
+Properties> Illegal property value, the regular expression for this property value is: \i
+Backup operation will not store instance data from the hierarchical blocks. It's recommended to use Archiver to include instance data.
+<p>Backup 2025-11-26 16:36:53 of schematic BatteryLEDs.1 created successfully. <a href="handler:BackupCommenter(_savepoint[SCH][288230384741646341][4971973997206962181][15:29:04_11-26-25][1764175013];1764175013)" onClick="window.external.OnLinkClick(this);"><b>Click here to enter a comment.</b></a></p>
+Backup operation will not store instance data from the hierarchical blocks. It's recommended to use Archiver to include instance data.
+<p>Backup 2025-11-26 16:37:39 of schematic BatteryLEDs.1 created successfully. <a href="handler:BackupCommenter(_savepoint[SCH][288230384741646341][4971973997206962181][16:37:31_11-26-25][1764175059];1764175059)" onClick="window.external.OnLinkClick(this);"><b>Click here to enter a comment.</b></a></p>
+Part Replace> No parts found. Selected scope is not within a board.
+Part Replace> 12 part(s) found
+Part Replace> The source part exists in more than one block instance. Properties will be set as block values if all parts are selected, otherwise properties will be set as instance values on selected parts only.
+Part Replace> Part data has been retrieved.
+Part Replace> None of the pins have been mapped.
+Part Replace> 12 part(s) found
+Part Replace> None of the pins have been mapped.
+ICDB server [info]: Starting [User] backup process
+ICDB server [info]: [User : shrou] backup of size [718.2 kB] created successfully in location [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\ProjectBackup\backups\2025-11-26 16.46.33 - user.zip]
+ICDB server [info]: [AutoSave] backup of size [724.0 kB] created successfully in location [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\ProjectBackup\backups\2025-11-27 09.40.26 - auto.zip]
+Part Replace> 12 part(s) found
+Part Replace> The source part exists in more than one block instance. Properties will be set as block values if all parts are selected, otherwise properties will be set as instance values on selected parts only.
+Part Replace> 12 part(s) found
+Part Replace> Part data has been retrieved.
+ICDB server [info]: Starting [User] backup process
+ICDB server [info]: [User : shrou] backup of size [727.7 kB] created successfully in location [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\ProjectBackup\backups\2025-11-27 09.50.15 - user.zip]
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [2.6 MB] created successfully in location [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\ProjectBackup\backups\2025-11-27 13.40.26 - auto.zip]
+Part Replace> 2 part(s) found
+Part Replace> The source part exists in more than one block instance. Properties will be set as block values if all parts are selected, otherwise properties will be set as instance values on selected parts only.
+Part Replace> Part data has been retrieved.
+ICDB server [info]: Starting [User] backup process
+ICDB server [info]: [User : shrou] backup of size [2.6 MB] created successfully in location [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\ProjectBackup\backups\2025-11-27 15.33.34 - user.zip]
+Loading IPL... c:/siemenseda/xped2510/sdd_home/standard/templates/dxdesigner/XPED\PartsListerDefaults.ipl
+IPL load successful.
+Saving IPL... C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\PartsListerDefaults.ipl
+IPL save successful.
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [3.4 MB] created successfully in location [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\ProjectBackup\backups\2025-11-28 14.23.58 - auto.zip]
+Exporting cce representation ...
+ICDB server [info]: Starting [Autosave] backup process
+ICDB server [info]: [AutoSave] backup of size [3.4 MB] created successfully in location [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\ProjectBackup\backups\2025-11-28 18.23.58 - auto.zip]

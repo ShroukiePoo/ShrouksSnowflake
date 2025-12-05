@@ -1,0 +1,45 @@
+[2025-11-26 10.22.35] -------------------- CREATE --------------------
+[2025-11-26 10.22.35] Creating Project Backup infrastructure for project [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\ShrouksSnowflake.prj].
+[2025-11-26 10.23.05] Successfully created [AutoSave] backup [2025-11-26 10.23.05 - auto.zip] requested by [DESKTOP-H15QKG3:shrou].
+[2025-11-26 14.23.05] Successfully created [AutoSave] backup [2025-11-26 14.23.05 - auto.zip] requested by [DESKTOP-H15QKG3:shrou].
+[2025-11-26 16.46.33] Successfully created [User] backup [2025-11-26 16.46.33 - user.zip] requested by [DESKTOP-H15QKG3:shrou].
+[2025-11-27 09.40.27] Successfully created [AutoSave] backup [2025-11-27 09.40.26 - auto.zip] requested by [DESKTOP-H15QKG3:shrou].
+[2025-11-27 09.50.15] Successfully created [User] backup [2025-11-27 09.50.15 - user.zip] requested by [DESKTOP-H15QKG3:shrou].
+[2025-11-27 09.50.15] Removing excessive [User] backup file [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\ProjectBackup\backups\2025-11-26 16.46.33 - user.zip].
+[2025-11-27 09.50.15] [User] backup file [ShrouksSnowflake\ProjectBackup\backups\2025-11-26 16.46.33 - user.zip] removed.
+[2025-11-27 13.40.27] Successfully created [AutoSave] backup [2025-11-27 13.40.26 - auto.zip] requested by [DESKTOP-H15QKG3:shrou].
+[2025-11-27 13.40.27] Removing excessive [AutoSave] backup file [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\ProjectBackup\backups\2025-11-26 10.23.05 - auto.zip].
+[2025-11-27 13.40.27] [AutoSave] backup file [ShrouksSnowflake\ProjectBackup\backups\2025-11-26 10.23.05 - auto.zip] removed.
+[2025-11-27 15.33.34] Successfully created [User] backup [2025-11-27 15.33.34 - user.zip] requested by [DESKTOP-H15QKG3:shrou].
+[2025-11-27 15.33.34] Removing excessive [User] backup file [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\ProjectBackup\backups\2025-11-27 09.50.15 - user.zip].
+[2025-11-27 15.33.34] [User] backup file [ShrouksSnowflake\ProjectBackup\backups\2025-11-27 09.50.15 - user.zip] removed.
+[2025-11-28 09.20.35] Successfully created [AutoSave] backup [2025-11-28 09.20.32 - auto.zip] requested by [DESKTOP-H15QKG3:shrou].
+[2025-11-28 09.20.35] Removing excessive [AutoSave] backup file [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\ProjectBackup\backups\2025-11-26 14.23.05 - auto.zip].
+[2025-11-28 09.20.35] [AutoSave] backup file [ShrouksSnowflake\ProjectBackup\backups\2025-11-26 14.23.05 - auto.zip] removed.
+[2025-11-28 14.24.02] Successfully created [AutoSave] backup [2025-11-28 14.23.58 - auto.zip] requested by [DESKTOP-H15QKG3:shrou].
+[2025-11-28 14.24.02] Removing excessive [AutoSave] backup file [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\ProjectBackup\backups\2025-11-27 09.40.26 - auto.zip].
+[2025-11-28 14.24.02] [AutoSave] backup file [ShrouksSnowflake\ProjectBackup\backups\2025-11-27 09.40.26 - auto.zip] removed.
+[2025-11-28 18.23.58] Successfully created [AutoSave] backup [2025-11-28 18.23.58 - auto.zip] requested by [DESKTOP-H15QKG3:shrou].
+[2025-11-28 18.23.58] Removing excessive [AutoSave] backup file [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\ProjectBackup\backups\2025-11-27 13.40.26 - auto.zip].
+[2025-11-28 18.23.58] [AutoSave] backup file [ShrouksSnowflake\ProjectBackup\backups\2025-11-27 13.40.26 - auto.zip] removed.
+[2025-11-28 22.24.02] Successfully created [AutoSave] backup [2025-11-28 22.23.58 - auto.zip] requested by [DESKTOP-H15QKG3:shrou].
+[2025-11-28 22.24.02] Removing excessive [AutoSave] backup file [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\ProjectBackup\backups\2025-11-28 09.20.32 - auto.zip].
+[2025-11-28 22.24.02] [AutoSave] backup file [ShrouksSnowflake\ProjectBackup\backups\2025-11-28 09.20.32 - auto.zip] removed.
+[2025-12-03 09.05.07] Successfully created [AutoSave] backup [2025-12-03 09.05.04 - auto.zip] requested by [DESKTOP-H15QKG3:shrou].
+[2025-12-03 09.05.07] Removing excessive [AutoSave] backup file [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\ProjectBackup\backups\2025-11-28 14.23.58 - auto.zip].
+[2025-12-03 09.05.07] [AutoSave] backup file [ShrouksSnowflake\ProjectBackup\backups\2025-11-28 14.23.58 - auto.zip] removed.
+[2025-12-03 15.09.55] Successfully created [AutoSave] backup [2025-12-03 15.09.52 - auto.zip] requested by [DESKTOP-H15QKG3:shrou].
+[2025-12-03 15.09.55] Removing excessive [AutoSave] backup file [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\ProjectBackup\backups\2025-11-28 18.23.58 - auto.zip].
+[2025-12-03 15.09.55] [AutoSave] backup file [ShrouksSnowflake\ProjectBackup\backups\2025-11-28 18.23.58 - auto.zip] removed.
+[2025-12-03 19.09.52] Successfully created [AutoSave] backup [2025-12-03 19.09.52 - auto.zip] requested by [DESKTOP-H15QKG3:shrou].
+[2025-12-03 19.09.52] Removing excessive [AutoSave] backup file [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\ProjectBackup\backups\2025-11-28 22.23.58 - auto.zip].
+[2025-12-03 19.09.52] [AutoSave] backup file [ShrouksSnowflake\ProjectBackup\backups\2025-11-28 22.23.58 - auto.zip] removed.
+[2025-12-04 02.36.32] Successfully created [AutoSave] backup [2025-12-04 02.36.29 - auto.zip] requested by [DESKTOP-H15QKG3:shrou].
+[2025-12-04 02.36.32] Removing excessive [AutoSave] backup file [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\ProjectBackup\backups\2025-12-03 09.05.04 - auto.zip].
+[2025-12-04 02.36.32] [AutoSave] backup file [ShrouksSnowflake\ProjectBackup\backups\2025-12-03 09.05.04 - auto.zip] removed.
+[2025-12-05 12.14.34] Successfully created [AutoSave] backup [2025-12-05 12.14.27 - auto.zip] requested by [DESKTOP-H15QKG3:shrou].
+[2025-12-05 12.14.34] Removing excessive [AutoSave] backup file [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\ProjectBackup\backups\2025-12-03 15.09.52 - auto.zip].
+[2025-12-05 12.14.34] [AutoSave] backup file [ShrouksSnowflake\ProjectBackup\backups\2025-12-03 15.09.52 - auto.zip] removed.
+[2025-12-05 16.14.28] Successfully created [AutoSave] backup [2025-12-05 16.14.27 - auto.zip] requested by [DESKTOP-H15QKG3:shrou].
+[2025-12-05 16.14.28] Removing excessive [AutoSave] backup file [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\ProjectBackup\backups\2025-12-03 19.09.52 - auto.zip].
+[2025-12-05 16.14.28] [AutoSave] backup file [ShrouksSnowflake\ProjectBackup\backups\2025-12-03 19.09.52 - auto.zip] removed.

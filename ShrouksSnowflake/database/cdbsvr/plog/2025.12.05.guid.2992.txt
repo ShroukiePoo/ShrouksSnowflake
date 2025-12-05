@@ -1,0 +1,30 @@
+[2025.12.05 12:14:25] [0001m.29s.627ms] [0] WELCOME
+[2025.12.05 12:14:25] [0001m.29s.628ms] [1] iCDB Database ver.3.253, u99LbhRtRYplOuK8UVbxEw, build:17496615 created 2025-09-25 13:25:30, sources stamp:u99LbhRtRYplOuK8UVbxEw
+[2025.12.05 12:14:25] [0001m.29s.628ms] [1] Unpublished work. Copyright 2025 Siemens\r\n\r\nThis material contains trade secrets or otherwise confidential\r\ninformation owned by Siemens Industry Software Inc.\r\nor its affiliates (collectively, 'SISW'), or its licensors.\r\nAccess to and use of this information is strictly limited\r\nas set forth in the Customer's applicable agreements with SISW.
+[2025.12.05 12:14:25] [0001m.29s.628ms] [1] Base flow version [2510]
+[2025.12.05 12:14:25] [0001m.29s.628ms] [1] Install Id [76190007], Flow Id [Xpedition Value Based Add Ons 2510], Full Flow Name [Xpedition Value Based Add Ons 2510], Exact Access Date [2025/09/01]
+[2025.12.05 12:14:25] [0001m.29s.628ms] [1] Install Id [76190076], Flow Id [Xpedition Standard 2510], Full Flow Name [Xpedition Standard 2510], Exact Access Date [2025/09/01]
+[2025.12.05 12:14:25] [0001m.29s.629ms] [1] Machine [DESKTOP-H15QKG3]  IP [127.0.0.1,192.168.10.159,192.168.164.1,192.168.32.1,192.168.56.1]  User [shrou]  PID [2992]
+[2025.12.05 12:14:25] [0001m.29s.629ms] [1] Operating system [Microsoft Windows 8 Home Premium Edition, 64-bit (build 9200)]
+[2025.12.05 12:14:25] [0001m.29s.629ms] [1] Current working dir [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\PCB]
+[2025.12.05 12:14:25] [0001m.29s.629ms] [1] PATH [C:\SiemensEDA\XPED2510\SDD_HOME\xe\win64\lib;C:\SiemensEDA\XPED2510\SDD_HOME\common\win64\bin;C:\SiemensEDA\XPED2510\SDD_HOME\common\win64\lib;C:\SiemensEDA\XPED2510\SDD_HOME\common\win32\lib;C:\SiemensEDA\XPED2510\SDD_HOME\common\win64\jre\default\bin;C:\SiemensEDA\XPED2510\MGC_HOME.ixw\bin;C:\SiemensEDA\XPED2510\MGC_HOME.ixw\lib;C:\SiemensEDA\XPED2510\SDD_HOME\wg\win64\lib;C:\SiemensEDA\XPED2510\SDD_HOME\common3D\win64\lib;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Program Files\dotnet\;C:\Program Files\WireGuard\;C:\Program Files\PuTTY\;C:\Program Files\Docker\Docker\resources\bin;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Muse Hub\lib;C:\Users\shrou\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\shrou\AppData\Local\Programs\Python\Python310\;C:\Users\shrou\AppData\Local\Microsoft\WindowsApps;C:\Users\shrou\AppData\Local\GitHubDesktop\bin;C:\Users\shrou\AppData\Local\atom\bin;C:\Users\shrou\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\shrou\AppData\Local\Microsoft\WindowsApps;C:\Users\shrou\AppData\Local\Muse Hub\lib;]
+[2025.12.05 12:14:25] [0001m.29s.629ms] [1] SDD_HOME [C:\SiemensEDA\XPED2510\SDD_HOME] on file system [NTFS]
+[2025.12.05 12:14:25] [0001m.29s.629ms] [1] SDD_PLATFORM [win64]
+[2025.12.05 12:14:25] [0001m.29s.629ms] [1] WDIR [C:\WDIR\XPED2510;C:\SiemensEDA\XPED2510\SDD_HOME\standard;]
+[2025.12.05 12:14:25] [0001m.29s.629ms] [1] Local iCDB working dir [C:\WDIR\XPED2510\iCDB] on file system [NTFS]
+[2025.12.05 12:14:25] [0001m.29s.629ms] [3] WARNING: Database [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\database\icdb.dat] was manually copied
+[2025.12.05 12:14:25] [0001m.29s.629ms] [3] File change time:        [2025-12-03 19.12.13]
+[2025.12.05 12:14:25] [0001m.29s.629ms] [3] File modification time:  [2025-12-03 19.26.05]
+[2025.12.05 12:14:25] [0001m.29s.629ms] [3] Last change time:        [2025-12-03 19.16.33]
+[2025.12.05 12:14:25] [0001m.29s.629ms] [3] Last database open information:
+[2025.12.05 12:14:25] [0001m.29s.629ms] [3] Time:             [2025-12-03 19.16.33]
+[2025.12.05 12:14:25] [0001m.29s.629ms] [3] Location:         [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\database\icdb.dat]
+[2025.12.05 12:14:25] [0001m.29s.629ms] [3] Machine:          [DESKTOP-H15QKG3]
+[2025.12.05 12:14:25] [0001m.29s.629ms] [3] User:             [shrou]
+[2025.12.05 12:14:25] [0001m.29s.629ms] [3] PID:              [3368]
+[2025.12.05 12:14:25] [0001m.29s.629ms] [3] Application:      [iCDB Server]
+[2025.12.05 12:14:25] [0001m.29s.629ms] [3] Operating system: [Microsoft Windows 11 version 24H2 Home Premium Edition, 64-bit (build 26200)]
+[2025.12.05 12:14:25] [0001m.29s.629ms] [3] WARNING: Regenerating database GUID
+[2025.12.05 12:14:25] [0001m.29s.629ms] [3] Previous database GUID [ff8b-b3a5-9329-372a-be4d-6291-f4d6-2960-4ca9-7454-bf6d-4941]
+[2025.12.05 12:14:25] [0001m.29s.630ms] [3] Current database GUID  [6707-9724-4465-72f5-1acc-2397-acc2-3960-405d-7454-bf6d-4941]
+[2025.12.05 12:14:25] [0001m.29s.630ms] [0] .

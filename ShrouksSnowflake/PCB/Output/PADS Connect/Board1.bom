@@ -1,0 +1,95 @@
+# Bill of Materials - Other Components
+# date: Wed Dec 03 19:26:02 2025
+
+
+
+  DESCRIPTION                             ITEM_NUMBER   COMPANY PART NO                           GEOMETRY          REFERENCE NAME   
+
+                                          1             SMTU_2477N-1-LF                           SMTU_2477N-1-LF   BT100            
+                                          1             SMTU_2477N-1-LF                           SMTU_2477N-1-LF   BT200            
+  Single Color LED, Red, Water Clear,     3             WURTHELEKTRONIK_150060RS75000             LEDC1608X70N      LED100           
+  1.1mm,                                                                                                                             
+  Single Color LED, Red, Water Clear,     3             WURTHELEKTRONIK_150060RS75000             LEDC1608X70N      LED101           
+  1.1mm,                                                                                                                             
+  Single Color LED, Red, Water Clear,     3             WURTHELEKTRONIK_150060RS75000             LEDC1608X70N      LED102           
+  1.1mm,                                                                                                                             
+  Single Color LED, Red, Water Clear,     3             WURTHELEKTRONIK_150060RS75000             LEDC1608X70N      LED103           
+  1.1mm,                                                                                                                             
+  Single Color LED, Red, Water Clear,     3             WURTHELEKTRONIK_150060RS75000             LEDC1608X70N      LED104           
+  1.1mm,                                                                                                                             
+  Single Color LED, Red, Water Clear,     3             WURTHELEKTRONIK_150060RS75000             LEDC1608X70N      LED105           
+  1.1mm,                                                                                                                             
+  Single Color LED, Red, Water Clear,     3             WURTHELEKTRONIK_150060RS75000             LEDC1608X70N      LED200           
+  1.1mm,                                                                                                                             
+  Single Color LED, Red, Water Clear,     3             WURTHELEKTRONIK_150060RS75000             LEDC1608X70N      LED201           
+  1.1mm,                                                                                                                             
+  Single Color LED, Red, Water Clear,     3             WURTHELEKTRONIK_150060RS75000             LEDC1608X70N      LED202           
+  1.1mm,                                                                                                                             
+  Single Color LED, Red, Water Clear,     3             WURTHELEKTRONIK_150060RS75000             LEDC1608X70N      LED203           
+  1.1mm,                                                                                                                             
+  Single Color LED, Red, Water Clear,     3             WURTHELEKTRONIK_150060RS75000             LEDC1608X70N      LED204           
+  1.1mm,                                                                                                                             
+  Single Color LED, Red, Water Clear,     3             WURTHELEKTRONIK_150060RS75000             LEDC1608X70N      LED205           
+  1.1mm,                                                                                                                             
+  Fixed Resistor,                         2             VISHAYINTERTECHNOLOGIE_CRCW08052K00JNEA   RESC2012X50N      R100             
+  Metal Glaze/thick Film, 0.125W,                                                                                                    
+  2000ohm, 150V, 5% +/-Tol, 200ppm/Cel,                                                                                              
+  Surface Mount, 0805, CHIP,                                                                                                         
+  HALOGEN FREE AND ROHS COMPLIANT, 2K                                                                                                
+  Fixed Resistor,                         2             VISHAYINTERTECHNOLOGIE_CRCW08052K00JNEA   RESC2012X50N      R101             
+  Metal Glaze/thick Film, 0.125W,                                                                                                    
+  2000ohm, 150V, 5% +/-Tol, 200ppm/Cel,                                                                                              
+  Surface Mount, 0805, CHIP,                                                                                                         
+  HALOGEN FREE AND ROHS COMPLIANT, 2K                                                                                                
+  Fixed Resistor,                         2             VISHAYINTERTECHNOLOGIE_CRCW08052K00JNEA   RESC2012X50N      R102             
+  Metal Glaze/thick Film, 0.125W,                                                                                                    
+  2000ohm, 150V, 5% +/-Tol, 200ppm/Cel,                                                                                              
+  Surface Mount, 0805, CHIP,                                                                                                         
+  HALOGEN FREE AND ROHS COMPLIANT, 2K                                                                                                
+  Fixed Resistor,                         2             VISHAYINTERTECHNOLOGIE_CRCW08052K00JNEA   RESC2012X50N      R103             
+  Metal Glaze/thick Film, 0.125W,                                                                                                    
+  2000ohm, 150V, 5% +/-Tol, 200ppm/Cel,                                                                                              
+  Surface Mount, 0805, CHIP,                                                                                                         
+  HALOGEN FREE AND ROHS COMPLIANT, 2K                                                                                                
+  Fixed Resistor,                         2             VISHAYINTERTECHNOLOGIE_CRCW08052K00JNEA   RESC2012X50N      R104             
+  Metal Glaze/thick Film, 0.125W,                                                                                                    
+  2000ohm, 150V, 5% +/-Tol, 200ppm/Cel,                                                                                              
+  Surface Mount, 0805, CHIP,                                                                                                         
+  HALOGEN FREE AND ROHS COMPLIANT, 2K                                                                                                
+  Fixed Resistor,                         2             VISHAYINTERTECHNOLOGIE_CRCW08052K00JNEA   RESC2012X50N      R105             
+  Metal Glaze/thick Film, 0.125W,                                                                                                    
+  2000ohm, 150V, 5% +/-Tol, 200ppm/Cel,                                                                                              
+  Surface Mount, 0805, CHIP,                                                                                                         
+  HALOGEN FREE AND ROHS COMPLIANT, 2K                                                                                                
+  Fixed Resistor,                         2             VISHAYINTERTECHNOLOGIE_CRCW08052K00JNEA   RESC2012X50N      R200             
+  Metal Glaze/thick Film, 0.125W,                                                                                                    
+  2000ohm, 150V, 5% +/-Tol, 200ppm/Cel,                                                                                              
+  Surface Mount, 0805, CHIP,                                                                                                         
+  HALOGEN FREE AND ROHS COMPLIANT, 2K                                                                                                
+  Fixed Resistor,                         2             VISHAYINTERTECHNOLOGIE_CRCW08052K00JNEA   RESC2012X50N      R201             
+  Metal Glaze/thick Film, 0.125W,                                                                                                    
+  2000ohm, 150V, 5% +/-Tol, 200ppm/Cel,                                                                                              
+  Surface Mount, 0805, CHIP,                                                                                                         
+  HALOGEN FREE AND ROHS COMPLIANT, 2K                                                                                                
+  Fixed Resistor,                         2             VISHAYINTERTECHNOLOGIE_CRCW08052K00JNEA   RESC2012X50N      R202             
+  Metal Glaze/thick Film, 0.125W,                                                                                                    
+  2000ohm, 150V, 5% +/-Tol, 200ppm/Cel,                                                                                              
+  Surface Mount, 0805, CHIP,                                                                                                         
+  HALOGEN FREE AND ROHS COMPLIANT, 2K                                                                                                
+  Fixed Resistor,                         2             VISHAYINTERTECHNOLOGIE_CRCW08052K00JNEA   RESC2012X50N      R203             
+  Metal Glaze/thick Film, 0.125W,                                                                                                    
+  2000ohm, 150V, 5% +/-Tol, 200ppm/Cel,                                                                                              
+  Surface Mount, 0805, CHIP,                                                                                                         
+  HALOGEN FREE AND ROHS COMPLIANT, 2K                                                                                                
+  Fixed Resistor,                         2             VISHAYINTERTECHNOLOGIE_CRCW08052K00JNEA   RESC2012X50N      R204             
+  Metal Glaze/thick Film, 0.125W,                                                                                                    
+  2000ohm, 150V, 5% +/-Tol, 200ppm/Cel,                                                                                              
+  Surface Mount, 0805, CHIP,                                                                                                         
+  HALOGEN FREE AND ROHS COMPLIANT, 2K                                                                                                
+  Fixed Resistor,                         2             VISHAYINTERTECHNOLOGIE_CRCW08052K00JNEA   RESC2012X50N      R205             
+  Metal Glaze/thick Film, 0.125W,                                                                                                    
+  2000ohm, 150V, 5% +/-Tol, 200ppm/Cel,                                                                                              
+  Surface Mount, 0805, CHIP,                                                                                                         
+  HALOGEN FREE AND ROHS COMPLIANT, 2K                                                                                                
+
+

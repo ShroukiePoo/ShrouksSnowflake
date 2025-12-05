@@ -1,0 +1,37 @@
+            ----------
+            CPDB Manager
+            ----------
+
+Start time: 2025-11-26 12:43:00
+
+    [Warning] Partition: "Resistors" Part Number: "VISHAYINTERTECHNOLOGIE_CRCW08052K00JNEA" - cannot convert data "0.125W" of type "string" to "double" (column: "Rated Power Dissipation (P)")
+    [Warning] Partition: "Resistors" Part Number: "VISHAYINTERTECHNOLOGIE_CRCW08052K00JNEA" - cannot convert data "2000O" of type "string" to "double" (column: "Value")
+    [Warning] Partition: "Resistors" Part Number: "VISHAYINTERTECHNOLOGIE_CRCW08052K00JNEA" - cannot convert data "5%" of type "string" to "double" (column: "Tolerance")
+
+End time: 2025-11-26 12:43:00
+
+            ----------
+            CPDB Manager
+            ----------
+
+Start time: 2025-11-26 12:43:32
+
+    [Warning] Partition: "Optoelectronics" Part Number: "WURTHELEKTRONIK_150060RS75000" - cannot convert data "0.03A" of type "string" to "double" (column: "Forward Current-Max")
+    [Warning] Partition: "Optoelectronics" Part Number: "WURTHELEKTRONIK_150060RS75000" - cannot convert data "140deg" of type "string" to "double" (column: "Viewing Angle")
+    [Warning] Partition: "Resistors" Part Number: "VISHAYINTERTECHNOLOGIE_CRCW08052K00JNEA" - cannot convert data "0.125W" of type "string" to "double" (column: "Rated Power Dissipation (P)")
+    [Warning] Partition: "Resistors" Part Number: "VISHAYINTERTECHNOLOGIE_CRCW08052K00JNEA" - cannot convert data "2000O" of type "string" to "double" (column: "Value")
+    [Warning] Partition: "Resistors" Part Number: "VISHAYINTERTECHNOLOGIE_CRCW08052K00JNEA" - cannot convert data "5%" of type "string" to "double" (column: "Tolerance")
+
+End time: 2025-11-26 12:43:32
+
+            ----------
+            CPDB Manager
+            ----------
+
+Start time: 2025-11-26 14:46:21
+
+    [Warning] Partition: "Batteries" Part Number: "PANASONICELECTRONICCOMPONE_CR-2477_HFN" - cannot convert data "1Ah" of type "string" to "double" (column: "Capacity")
+    [Warning] Partition: "Batteries" Part Number: "PANASONICELECTRONICCOMPONE_CR-2477_HFN" - cannot convert data "3V" of type "string" to "double" (column: "Voltage")
+
+End time: 2025-11-26 14:46:21
+

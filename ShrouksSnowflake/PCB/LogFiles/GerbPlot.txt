@@ -1,0 +1,214 @@
+ ----------------------------
+|    Gerber Plotting Log     |
+|          Started           |
+|  Fri Dec 05 17:28:00 2025  |
+ ----------------------------
+
+
+Processing SoldermaskTop.gdo
+    Number of Apertures     = 8
+    Number of Moves         = 93
+    Number of Draws         = 0
+    Number of Arcs          = 0
+    Number of Flashes       = 93
+    Number of Comments      = 5
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 0
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 0 (IN)
+    Total Move Length       = 67.5052 (IN)
+
+Processing SoldermaskBottom.gdo
+    Number of Apertures     = 2
+    Number of Moves         = 45
+    Number of Draws         = 0
+    Number of Arcs          = 0
+    Number of Flashes       = 45
+    Number of Comments      = 5
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 0
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 0 (IN)
+    Total Move Length       = 36.9038 (IN)
+
+Processing SolderPasteTop.gdo
+    Number of Apertures     = 7
+    Number of Moves         = 50
+    Number of Draws         = 0
+    Number of Arcs          = 0
+    Number of Flashes       = 50
+    Number of Comments      = 5
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 0
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 0 (IN)
+    Total Move Length       = 32.8315 (IN)
+
+Processing SolderPasteBottom.gdo
+    Number of Apertures     = 1
+    Number of Moves         = 2
+    Number of Draws         = 0
+    Number of Arcs          = 0
+    Number of Flashes       = 2
+    Number of Comments      = 5
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 0
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 0 (IN)
+    Total Move Length       = 2.0315 (IN)
+
+Processing GeneratedSilkscreenTop.gdo
+    Number of Apertures     = 4
+    Number of Moves         = 236
+    Number of Draws         = 6059
+    Number of Arcs          = 484
+    Number of Flashes       = 0
+    Number of Comments      = 5
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 0
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 122.031 (IN)
+    Total Move Length       = 184.033 (IN)
+
+Processing GeneratedSilkscreenBottom.gdo
+    Number of Apertures     = 3
+    Number of Moves         = 31
+    Number of Draws         = 340
+    Number of Arcs          = 484
+    Number of Flashes       = 0
+    Number of Comments      = 5
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 0
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 86.9931 (IN)
+    Total Move Length       = 10.106 (IN)
+
+Processing EtchLayer4Bottom.gdo
+    Number of Apertures     = 2
+    Number of Moves         = 47
+    Number of Draws         = 8
+    Number of Arcs          = 0
+    Number of Flashes       = 45
+    Number of Comments      = 5
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 2
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 2.77165 (IN)
+    Total Move Length       = 39.4433 (IN)
+
+Processing EtchLayer3.gdo
+    Number of Apertures     = 1
+    Number of Moves         = 45
+    Number of Draws         = 180
+    Number of Arcs          = 333
+    Number of Flashes       = 43
+    Number of Comments      = 5
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 2
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 61.5398 (IN)
+    Total Move Length       = 37.89 (IN)
+
+Processing EtchLayer2.gdo
+    Number of Apertures     = 1
+    Number of Moves         = 44
+    Number of Draws         = 179
+    Number of Arcs          = 360
+    Number of Flashes       = 43
+    Number of Comments      = 5
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 1
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 67.7225 (IN)
+    Total Move Length       = 35.9167 (IN)
+
+Processing EtchLayer1Top.gdo
+    Number of Apertures     = 10
+    Number of Moves         = 137
+    Number of Draws         = 77
+    Number of Arcs          = 0
+    Number of Flashes       = 93
+    Number of Comments      = 5
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 3
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 8.75626 (IN)
+    Total Move Length       = 113.082 (IN)
+
+Processing DrillDrawingThrough.gdo
+    Number of Apertures     = 1
+    Number of Moves         = 372
+    Number of Draws         = 7062
+    Number of Arcs          = 176
+    Number of Flashes       = 0
+    Number of Comments      = 5
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 0
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 59.9715 (IN)
+    Total Move Length       = 248.27 (IN)
+
+Processing BoardOutline.gdo
+    Number of Apertures     = 1
+    Number of Moves         = 1
+    Number of Draws         = 86
+    Number of Arcs          = 240
+    Number of Flashes       = 0
+    Number of Comments      = 4
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 0
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 40.1349 (IN)
+    Total Move Length       = 0.616701 (IN)
+
+Design has zero width element(s).Replacing with default width (0.005 IN) from gmf file.
+
+Processing AssemblyTop.gdo
+    Number of Apertures     = 5
+    Number of Moves         = 1257
+    Number of Draws         = 38875
+    Number of Arcs          = 4
+    Number of Flashes       = 0
+    Number of Comments      = 4
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 0
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 230.855 (IN)
+    Total Move Length       = 1186.26 (IN)
+
+Design has zero width element(s).Replacing with default width (0.005 IN) from gmf file.
+
+Processing AssemblyBot.gdo
+    Number of Apertures     = 3
+    Number of Moves         = 9
+    Number of Draws         = 79
+    Number of Arcs          = 4
+    Number of Flashes       = 0
+    Number of Comments      = 4
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 0
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 6.08507 (IN)
+    Total Move Length       = 3.48161 (IN)
+
+Design has zero width element(s).Replacing with default width (0.005 IN) from gmf file.
+
+ ---------------------------
+|    Gerber Plotting Log     |
+|          Finished          |
+|  Fri Dec 05 17:28:03 2025  |
+ ----------------------------

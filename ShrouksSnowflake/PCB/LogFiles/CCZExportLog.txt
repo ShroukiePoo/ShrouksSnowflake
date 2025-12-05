@@ -1,0 +1,15 @@
+
+				----------
+				CCZ Export
+				----------
+
+07:26:02 PM Wednesday, December 03, 2025
+
+Job name:    C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\PCB\Board1.pcb
+Output file: C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\PCB\Output\PADS Connect\Board1.cce
+
+Info:	Begin export
+Info:	CCZ export completed successfully.
+Info:	End export
+
+07:26:02 PM Wednesday, December 03, 2025

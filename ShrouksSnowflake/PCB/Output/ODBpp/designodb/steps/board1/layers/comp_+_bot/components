@@ -1,0 +1,148 @@
+#
+#Units
+#
+UNITS=INCH
+ID=51
+#
+#Component attribute names
+#
+@0 .comp_height_max
+@1 .comp_height
+@2 .comp_htol_plus
+@3 .comp_htol_minus
+@4 .comp_weight
+@5 .is_buried
+@6 .is_shield
+@7 .is_wirebonded
+@8 .polarity_marker
+@9 .neutralization_angle
+@10 .neutralization_reviewed
+@11 .comp_polarity
+@12 .no_pop
+@13 .user_bom_rev
+@14 .cad_part_override
+@15 .package_version
+@16 .mechanical
+@17 .comp_height_area
+@18 .desc1
+@19 .desc2
+@20 .desc3
+@21 .desc4
+@22 .desc5
+@23 .desc6
+@24 .desc7
+@25 .desc8
+@26 .desc9
+@27 .desc10
+@28 .part_desc1
+@29 .part_desc2
+@30 .part_desc3
+@31 .part_desc4
+@32 .part_desc5
+@33 .part_desc6
+@34 .part_desc7
+@35 .part_desc8
+@36 .part_desc9
+@37 .part_desc10
+@38 .comp_variant_list
+@39 .cad_local_footprint_change
+@40 .cad_package_name
+@41 .centroid_correction_x
+@42 .centroid_correction_y
+@43 .spo_shape
+@44 .spo_move_center
+@45 .spo_w_mode
+@46 .spo_w_val
+@47 .spo_w_fact
+@48 .spo_h_mode
+@49 .spo_h_val
+@50 .spo_h_fact
+@51 .spo_s_mode
+@52 .spo_s_val
+@53 .spo_s_fact
+@54 .spo_p_mode
+@55 .rot_correction
+@56 .machine_pkg
+@57 .station
+@58 .mount_stage
+@59 .spo_shape_rotate
+@60 .spo_shape_stretch
+@61 .spo_p_val
+@62 .spo_p_fact
+@63 .device_type
+@64 .device_style
+@65 .device_value
+@66 .device_value_ptol
+@67 .device_value_ntol
+@68 .gencad_device_type
+@69 .gencad_device_style
+@70 .gencad_device_value
+@71 .gencad_device_ptol
+@72 .gencad_device_ntol
+@73 .vpl1_pkg_name
+@74 .comp_type
+@75 .center_fiducial
+@76 .num_local_fiducials
+@77 .local_fiducial_dist
+@78 .otherside_keepout
+@79 .comp_ign_spacing
+@80 .no_tp_under
+@81 .no_hole_under
+@82 .no_uncap_via_under
+@83 .no_text_under
+@84 .thvpad_required
+@85 .label_clearance
+@86 .guard_comp
+@87 .needs_guarding
+@88 .ind_orient_req
+@89 .no_fiducial_check
+@90 .is_shadowed
+@91 .comp_mount_type
+@92 .toep_spacing_req
+@93 .comp_ignore
+@94 .placement_layer
+@95 .toep_nochk_o_side
+@96 .no_trace_under
+@97 .no_protrude_board
+@98 .drc_max_height
+@99 .drc_min_height
+@100 .comp_type2
+@101 .no_copper_shape_under
+@102 .lead_form
+@103 .package_type
+@104 .pin_length
+@105 .src_orientation
+@106 .shorted_pins
+@107 .color
+@108 .hp3070_device
+@109 .hp3070_value
+@110 .hp3070_tol_pos
+@111 .hp3070_tol_neg
+@112 .hp3070_test
+@113 .hp3070_type
+@114 .hp3070_hi_value
+@115 .hp3070_lo_value
+@116 .hp3070_seriesr
+@117 .hp3070_fail_msg
+@118 .hp3070_common_pin
+@119 .hp3070_contact_pin
+@120 .hp3070_probe_access
+@121 .hp3070_comment
+
+
+# CMP 0
+CMP 1 0 0 270 N BT200 SMTU_2477N-1-LF ;91=1,1=0.405512;ID=109
+PRP PART_NO 'SMTU_2477N-1-LF'
+PRP SSHEET 'BatteryLEDs(1)'
+PRP TYPE 'Connector'
+PRP PART_LABEL 'SMTU_2477N-1-LF'
+PRP COMP 'SMTU_2477N-1-LF'
+PRP CELL_LAST_MODIFIED_BY 'shrou@DESKTOP-H15QKG3'
+PRP SPATH 'Schematic1!BatteryLEDsBack'
+PRP ALLOWED_MOUNT_SIDE 'BOTH'
+PRP MGC_UNIGROUP 'Board1'
+PRP REFLOC 'IN,0.000000,0.000000,90,CC,0.078740,0.078740,0.007874,vf_std'
+PRP PACKAGE_NAME '[Unspecified]'
+TOP 0 0 -0.677165354331 270 N 2 17 1
+TOP 1 0 0.677165354331 270 N 1 31 2
+#

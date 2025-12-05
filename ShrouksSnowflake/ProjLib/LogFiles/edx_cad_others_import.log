@@ -1,0 +1,52 @@
+
+                ----------
+                EDX Import
+                ----------
+
+Start time: 2025-11-26 14:46:20
+
+
+    Processing Package
+        Reading: edx/Content.xml
+            Reading: edx/_rels/Content.xml.rels
+        Reading: edx/LibraryArchiveContainer1.xml
+            Reading: edx/_rels/LibraryArchiveContainer1.xml.rels
+        Reading: edx/ArchiveFiles1.xml
+            Reading: edx/_rels/ArchiveFiles1.xml.rels
+        Reading: edx/ArchiveFiles2.xml
+            Reading: edx/_rels/ArchiveFiles2.xml.rels
+
+    Importing Package
+        Settings
+            Package: C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\.\pq_edx
+            Library: C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\ProjLib\ShrouksSnowflake.lmp
+            Overwrite: All
+            On Error: Continue
+        
+        Importing Library
+            Importing Hole Partition: PartQuest
+                Importing Hole: h201
+                Importing Hole: h301
+                Importing Hole: h90
+            Committing Partition: PartQuest
+            Importing Pad Partition: PartQuest
+                Importing Pad: c140
+                Importing Pad: c301.5
+                Importing Pad: s140
+                Importing Pad: s451.5
+            Committing Partition: PartQuest
+            Importing Padstack Partition: PartQuest
+                Importing Padstack: c140h90
+                Importing Padstack: c301.5h201
+                Importing Padstack: s140h90
+                Importing Padstack: s451.5h301
+            Committing Partition: PartQuest
+            Importing Cell Partition: PartQuest
+                Importing Cell: CR2477HFN
+                Importing Cell: CR2477NRHLF
+            Committing Partition: PartQuest
+        Handling Pin Changes
+
+    Completed.
+
+End time: 2025-11-26 14:46:22

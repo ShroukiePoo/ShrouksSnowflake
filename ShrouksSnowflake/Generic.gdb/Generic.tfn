@@ -1,0 +1,16 @@
+Flat_Net_ID	Flat_Net_Name
+8	$1N12_BatteryLEDsBack
+1	$1N12_BatteryLEDsFront
+9	$1N15_BatteryLEDsBack
+3	$1N15_BatteryLEDsFront
+10	$1N18_BatteryLEDsBack
+4	$1N18_BatteryLEDsFront
+11	$1N21_BatteryLEDsBack
+5	$1N21_BatteryLEDsFront
+12	$1N24_BatteryLEDsBack
+6	$1N24_BatteryLEDsFront
+13	$1N27_BatteryLEDsBack
+7	$1N27_BatteryLEDsFront
+15	+3VBot
+14	+3VTop
+2	GND

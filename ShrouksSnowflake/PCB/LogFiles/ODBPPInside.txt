@@ -1,0 +1,24 @@
+
+
+Deleting directory .\Output\ODBpp\ODBPPIns_GN\
+
+Generating Cam Output for ODB++
+Generating NCDrill Output ...
+Friday, December 05, 2025 05:56 PM
+Merging NCDrill Output files ...
+
+        Deleting File "ContourPlated.ncd", as layer "rout" is not selected for export in ODB++.
+
+        Renaming NCDrill Output files "ThruHolePlated.ncd" to "d_1_4.ncd"
+Completed NCDrill Output ...
+Friday, December 05, 2025 05:56 PM
+
+Generating Gerber Output ...
+Friday, December 05, 2025 05:56 PM
+
+Completed Gerber Output ...
+Friday, December 05, 2025 05:56 PM
+
+Invoking ODB++ Inside utility...
+
+Completed running ODB++ Inside utility

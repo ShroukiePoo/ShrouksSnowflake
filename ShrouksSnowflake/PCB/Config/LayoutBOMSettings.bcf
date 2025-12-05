@@ -1,0 +1,124 @@
+.FILETYPE BOM_SETTINGS
+.VERSION "EE2007.1"
+.CREATOR "Mentor Graphics Corporation"
+.DATE "Friday, February 07, 2020 10:57 AM"
+
+.BOMFileName "C:\\Projects\\3. 12th May to\\2. Siemens\\2. Daves Training\\ShrouksSnowflake\\PCB\\Output\\PADS Connect\\Board1.bom"
+
+.EPComponents No
+
+.PartNumber No
+..Description "DESCRIPTION" 
+...Selected Yes
+..Count "COUNT" 
+...Selected Yes
+..ReferenceName "REFERENCE NAME" 
+...Selected No
+..ItemNumber "ITEM_NUMBER" 
+...Selected Yes
+..Geometry "GEOMETRY" 
+...Selected No
+..PartName "COMPANY PART NO" 
+...Selected No
+..Comment "COMMENT" 
+...Selected No
+
+.ReferenceDesignator Yes
+..Description "DESCRIPTION" 
+...Selected Yes
+..ItemNumber "ITEM_NUMBER" 
+...Selected Yes
+..PartName "COMPANY PART NO" 
+...Selected Yes
+..Geometry "GEOMETRY" 
+...Selected Yes
+..ReferenceName "REFERENCE NAME" 
+...Selected Yes
+..Comment "COMMENT" 
+...Selected No
+
+.Properties 37
+..Prop "ALLOWED_MOUNT_SIDE" 
+...Selected No
+..Prop "Auto.Insertion" 
+...Selected No
+..Prop "Cell Name" 
+...Selected No
+..Prop "Component_InstanceModification" 
+...Selected No
+..Prop "Cost" 
+...Selected No
+..Prop "Datasheet" 
+...Selected No
+..Prop "Description" 
+...Selected Yes
+..Prop "DXDB_LIBNAME" 
+...Selected No
+..Prop "Frozen Package" 
+...Selected No
+..Prop "GEOMETRY.HEIGHT" 
+...Selected No
+..Prop "HETERO" 
+...Selected No
+..Prop "IBIS" 
+...Selected No
+..Prop "IBIS Component Name" 
+...Selected No
+..Prop "Level" 
+...Selected No
+..Prop "MGC_CELL_OVERHANG" 
+...Selected No
+..Prop "MGC_UNIGROUP" 
+...Selected No
+..Prop "Order" 
+...Selected No
+..Prop "Part Label" 
+...Selected No
+..Prop "Part Name" 
+...Selected No
+..Prop "Part Number" 
+...Selected No
+..Prop "PART_NUMBER" 
+...Selected No
+..Prop "PARTS" 
+...Selected No
+..Prop "Pin Type" 
+...Selected No
+..Prop "PKG_TYPE" 
+...Selected No
+..Prop "Power" 
+...Selected No
+..Prop "Primary Supplier" 
+...Selected Yes
+..Prop "RFParametric" 
+...Selected No
+..Prop "Signal" 
+...Selected No
+..Prop "SIM_MODEL" 
+...Selected No
+..Prop "SIM_MODEL_FILE" 
+...Selected No
+..Prop "SPath" 
+...Selected No
+..Prop "SSheet" 
+...Selected No
+..Prop "Tolerance" 
+...Selected No
+..Prop "Type" 
+...Selected No
+..Prop "Underside Space" 
+...Selected No
+..Prop "Value" 
+...Selected Yes
+..Prop "Voltage" 
+...Selected No
+
+.AllComponents Yes
+.CommonComponents No
+.SelectVariant ""
+
+.AppendSuffix No
+
+.MechanicalCells Yes
+
+.UserProperties Yes

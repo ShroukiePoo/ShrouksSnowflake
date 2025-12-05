@@ -1,0 +1,56 @@
+
+                          Xpedition Layout ODB++ Output
+                          -----------------------------
+
+                       05:56 PM Friday, December 05, 2025
+Job Name: C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\PCB\Board1.pcb
+
+
+Configuration file found. Using the following settings.
+        Output User Layers 
+        Output ODB++ Documentation Layers
+        Output User Layers 
+        Using Placement Outline for package outline
+        Remove NFP Pins: None
+        Remove NFP Vias: None
+        Units: English
+        Version 8.0
+        Read DRC Features
+        Round Corners
+        Compress job
+        Run ODB++ Inside
+        Use Generate SilkScreen Data
+        Output Part Numbers
+        Output Board Outline
+
+Output Dir: C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\PCB\Output\ODBpp\
+Output Job Name: designodb
+Processing Board Outline
+Processing Layer Information
+Processing Symbols
+Processing Packages
+Processing Components
+Processing Nets
+Processing Nets
+Processing Layer Information
+Processing Features
+    Layer - signal_1
+    Layer - signal_2
+    Layer - signal_3
+    Layer - signal_4
+    Layer - spt
+    Layer - spb
+    Layer - smt
+    Layer - smb
+    Processing Assembly Data
+    Processing Through Drill Drawing Data
+    Processing Vias
+    Processing Component Holes
+    Processing Mounting Holes
+    Processing Alternate Silkscreen Data
+Creating package
+Packaging completed
+Process Completed at ....
+05:56:07 PM Friday, December 05, 2025
+
+Generating CAM data for ODB++ Inside

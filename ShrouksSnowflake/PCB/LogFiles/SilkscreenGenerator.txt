@@ -1,0 +1,50 @@
+
+                              SILKSCREEN GENERATOR
+                              --------------------
+
+                       04:59 PM Friday, December 05, 2025
+Job Name: C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\PCB\Board1.pcb
+
+
+    Silkscreen Side To Process           : BOTH
+
+    Process All Cell Types               : YES
+
+    Top Silkscreen For Selected Cells    : Silkscreen Reference Designator Top
+                                         : Silkscreen Part Number Top
+                                         : Silkscreen Outline Top
+                                         : Board Outline
+                                         : Default User Layer
+                                         : DXF
+                                         : DXFLayer
+                                         : SnowFlakeImport
+
+    Bottom Silkscreen For Selected Cells : Silkscreen Reference Designator Bottom
+                                         : Silkscreen Part Number Bottom
+                                         : Silkscreen Outline Bottom
+                                         : Board Outline
+                                         : Default User Layer
+                                         : DXF
+                                         : DXFLayer
+                                         : SnowFlakeImport
+
+    Break Silkscreen Using               : Conductive Pads
+
+    Break Graphics Pad Clearance         : NA
+
+    Break Graphics Via Clearance         : NA
+
+    Break Text Pad Clearance             : NA
+
+    Break Text Via Clearance             : NA
+
+    Broken Graphics Line Width           : 0.25mm
+
+    Broken Text Line Width               : 0.25mm
+    
+
+
+    TOP Silkscreen Data Created Successfully (237 Geometries).
+
+
+    BOTTOM Silkscreen Data Created Successfully (32 Geometries).

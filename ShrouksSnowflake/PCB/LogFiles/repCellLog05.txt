@@ -1,0 +1,340 @@
+=======================================================================
+Xpedition Layout - Version 125.0.1779.3123
+=======================================================================
+
+RELOAD CELLS
+
+Job Directory:  C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\PCB\
+
+
+Design Units:(mm)
+
+Replace Cell Log:   repCellLog05.txt
+
+Fri Nov 28 10:13:54 2025
+
+Reference Designator            Cell Name                         New Cell Name
+===============================================================================
+
+
+---------------  RELOAD CELLS  Fri Nov 28 10:13:54 2025  ---------------
+
+
+
+
+---------------  RELOAD CELLS TMP  Fri Nov 28 10:13:55 2025  ---------------
+
+
+
+
+---------------    Fri Nov 28 10:13:55 2025  ---------------
+
+
+BT100                           SMTU_2477N-1-LF                   SMTU_2477N-1-LF                 
+BT200                           SMTU_2477N-1-LF                   SMTU_2477N-1-LF                 
+
+
+---------------    Fri Nov 28 10:13:55 2025  ---------------
+
+
+
+
+---------------    Fri Nov 28 10:13:55 2025  ---------------
+
+
+
+
+---------------  RELOAD CELLS  Fri Nov 28 10:18:54 2025  ---------------
+
+
+
+
+---------------  RELOAD CELLS TMP  Fri Nov 28 10:18:54 2025  ---------------
+
+
+R202                            RESC2012X50N                      RESC2012X50N                    
+R203                            RESC2012X50N                      RESC2012X50N                    
+R103                            RESC2012X50N                      RESC2012X50N                    
+R102                            RESC2012X50N                      RESC2012X50N                    
+R205                            RESC2012X50N                      RESC2012X50N                    
+R204                            RESC2012X50N                      RESC2012X50N                    
+R101                            RESC2012X50N                      RESC2012X50N                    
+R201                            RESC2012X50N                      RESC2012X50N                    
+R104                            RESC2012X50N                      RESC2012X50N                    
+R105                            RESC2012X50N                      RESC2012X50N                    
+R100                            RESC2012X50N                      RESC2012X50N                    
+R200                            RESC2012X50N                      RESC2012X50N                    
+
+
+---------------    Fri Nov 28 10:18:54 2025  ---------------
+
+
+
+
+---------------    Fri Nov 28 10:18:54 2025  ---------------
+
+
+
+
+---------------  RELOAD CELLS  Fri Nov 28 10:30:25 2025  ---------------
+
+
+
+
+---------------  RELOAD CELLS TMP  Fri Nov 28 10:30:25 2025  ---------------
+
+
+LED202                          LEDC1608X70N                      LEDC1608X70N                    
+LED203                          LEDC1608X70N                      LEDC1608X70N                    
+LED103                          LEDC1608X70N                      LEDC1608X70N                    
+LED102                          LEDC1608X70N                      LEDC1608X70N                    
+LED100                          LEDC1608X70N                      LEDC1608X70N                    
+LED101                          LEDC1608X70N                      LEDC1608X70N                    
+LED104                          LEDC1608X70N                      LEDC1608X70N                    
+LED105                          LEDC1608X70N                      LEDC1608X70N                    
+LED200                          LEDC1608X70N                      LEDC1608X70N                    
+LED201                          LEDC1608X70N                      LEDC1608X70N                    
+LED204                          LEDC1608X70N                      LEDC1608X70N                    
+LED205                          LEDC1608X70N                      LEDC1608X70N                    
+
+
+---------------    Fri Nov 28 10:30:25 2025  ---------------
+
+
+
+
+---------------    Fri Nov 28 10:30:25 2025  ---------------
+
+
+
+
+---------------  RELOAD CELLS  Fri Nov 28 11:32:44 2025  ---------------
+
+
+
+
+---------------  RELOAD CELLS TMP  Fri Nov 28 11:32:44 2025  ---------------
+
+
+R200                            RESC2012X50N                      RESC2012X50N                    
+R100                            RESC2012X50N                      RESC2012X50N                    
+R105                            RESC2012X50N                      RESC2012X50N                    
+R104                            RESC2012X50N                      RESC2012X50N                    
+R201                            RESC2012X50N                      RESC2012X50N                    
+R101                            RESC2012X50N                      RESC2012X50N                    
+R204                            RESC2012X50N                      RESC2012X50N                    
+R205                            RESC2012X50N                      RESC2012X50N                    
+R102                            RESC2012X50N                      RESC2012X50N                    
+R103                            RESC2012X50N                      RESC2012X50N                    
+R203                            RESC2012X50N                      RESC2012X50N                    
+R202                            RESC2012X50N                      RESC2012X50N                    
+
+
+---------------    Fri Nov 28 11:32:45 2025  ---------------
+
+
+
+
+---------------    Fri Nov 28 11:32:45 2025  ---------------
+
+
+
+
+---------------  RELOAD CELLS  Fri Nov 28 11:35:16 2025  ---------------
+
+
+
+
+---------------  RELOAD CELLS TMP  Fri Nov 28 11:35:16 2025  ---------------
+
+
+LED205                          LEDC1608X70N                      LEDC1608X70N                    
+LED204                          LEDC1608X70N                      LEDC1608X70N                    
+LED201                          LEDC1608X70N                      LEDC1608X70N                    
+LED200                          LEDC1608X70N                      LEDC1608X70N                    
+LED105                          LEDC1608X70N                      LEDC1608X70N                    
+LED104                          LEDC1608X70N                      LEDC1608X70N                    
+LED101                          LEDC1608X70N                      LEDC1608X70N                    
+LED100                          LEDC1608X70N                      LEDC1608X70N                    
+LED102                          LEDC1608X70N                      LEDC1608X70N                    
+LED103                          LEDC1608X70N                      LEDC1608X70N                    
+LED203                          LEDC1608X70N                      LEDC1608X70N                    
+LED202                          LEDC1608X70N                      LEDC1608X70N                    
+
+
+---------------    Fri Nov 28 11:35:16 2025  ---------------
+
+
+
+
+---------------    Fri Nov 28 11:35:16 2025  ---------------
+
+
+
+
+---------------  RESET CELL  Fri Nov 28 11:45:29 2025  ---------------
+
+
+LED100                          LEDC1608X70N                      LEDC1608X70N                    
+LED101                          LEDC1608X70N                      LEDC1608X70N                    
+LED102                          LEDC1608X70N                      LEDC1608X70N                    
+LED103                          LEDC1608X70N                      LEDC1608X70N                    
+LED104                          LEDC1608X70N                      LEDC1608X70N                    
+LED105                          LEDC1608X70N                      LEDC1608X70N                    
+LED200                          LEDC1608X70N                      LEDC1608X70N                    
+LED201                          LEDC1608X70N                      LEDC1608X70N                    
+LED202                          LEDC1608X70N                      LEDC1608X70N                    
+LED203                          LEDC1608X70N                      LEDC1608X70N                    
+LED204                          LEDC1608X70N                      LEDC1608X70N                    
+LED205                          LEDC1608X70N                      LEDC1608X70N                    
+R100                            RESC2012X50N                      RESC2012X50N                    
+R101                            RESC2012X50N                      RESC2012X50N                    
+R102                            RESC2012X50N                      RESC2012X50N                    
+R103                            RESC2012X50N                      RESC2012X50N                    
+R104                            RESC2012X50N                      RESC2012X50N                    
+R105                            RESC2012X50N                      RESC2012X50N                    
+R200                            RESC2012X50N                      RESC2012X50N                    
+R201                            RESC2012X50N                      RESC2012X50N                    
+R202                            RESC2012X50N                      RESC2012X50N                    
+R203                            RESC2012X50N                      RESC2012X50N                    
+R204                            RESC2012X50N                      RESC2012X50N                    
+R205                            RESC2012X50N                      RESC2012X50N                    
+
+
+---------------    Fri Nov 28 11:45:29 2025  ---------------
+
+
+
+
+---------------  RESET CELL  Fri Nov 28 11:45:36 2025  ---------------
+
+
+LED100                          LEDC1608X70N                      LEDC1608X70N                    
+LED101                          LEDC1608X70N                      LEDC1608X70N                    
+LED102                          LEDC1608X70N                      LEDC1608X70N                    
+LED103                          LEDC1608X70N                      LEDC1608X70N                    
+LED104                          LEDC1608X70N                      LEDC1608X70N                    
+LED105                          LEDC1608X70N                      LEDC1608X70N                    
+LED200                          LEDC1608X70N                      LEDC1608X70N                    
+LED201                          LEDC1608X70N                      LEDC1608X70N                    
+LED202                          LEDC1608X70N                      LEDC1608X70N                    
+LED203                          LEDC1608X70N                      LEDC1608X70N                    
+LED204                          LEDC1608X70N                      LEDC1608X70N                    
+LED205                          LEDC1608X70N                      LEDC1608X70N                    
+R100                            RESC2012X50N                      RESC2012X50N                    
+R101                            RESC2012X50N                      RESC2012X50N                    
+R102                            RESC2012X50N                      RESC2012X50N                    
+R103                            RESC2012X50N                      RESC2012X50N                    
+R104                            RESC2012X50N                      RESC2012X50N                    
+R105                            RESC2012X50N                      RESC2012X50N                    
+R200                            RESC2012X50N                      RESC2012X50N                    
+R201                            RESC2012X50N                      RESC2012X50N                    
+R202                            RESC2012X50N                      RESC2012X50N                    
+R203                            RESC2012X50N                      RESC2012X50N                    
+R204                            RESC2012X50N                      RESC2012X50N                    
+R205                            RESC2012X50N                      RESC2012X50N                    
+
+
+---------------    Fri Nov 28 11:45:36 2025  ---------------
+
+
+
+
+---------------  RELOAD CELLS  Fri Nov 28 11:50:29 2025  ---------------
+
+
+
+
+---------------  RELOAD CELLS TMP  Fri Nov 28 11:50:29 2025  ---------------
+
+
+LED205                          LEDC1608X70N                      LEDC1608X70N                    
+LED204                          LEDC1608X70N                      LEDC1608X70N                    
+LED203                          LEDC1608X70N                      LEDC1608X70N                    
+LED202                          LEDC1608X70N                      LEDC1608X70N                    
+LED201                          LEDC1608X70N                      LEDC1608X70N                    
+LED200                          LEDC1608X70N                      LEDC1608X70N                    
+LED105                          LEDC1608X70N                      LEDC1608X70N                    
+LED104                          LEDC1608X70N                      LEDC1608X70N                    
+LED103                          LEDC1608X70N                      LEDC1608X70N                    
+LED102                          LEDC1608X70N                      LEDC1608X70N                    
+LED101                          LEDC1608X70N                      LEDC1608X70N                    
+LED100                          LEDC1608X70N                      LEDC1608X70N                    
+
+
+---------------    Fri Nov 28 11:50:29 2025  ---------------
+
+
+
+
+---------------    Fri Nov 28 11:50:29 2025  ---------------
+
+
+
+
+---------------  RESET CELL  Fri Nov 28 11:51:37 2025  ---------------
+
+
+LED100                          LEDC1608X70N                      LEDC1608X70N                    
+LED101                          LEDC1608X70N                      LEDC1608X70N                    
+LED102                          LEDC1608X70N                      LEDC1608X70N                    
+LED103                          LEDC1608X70N                      LEDC1608X70N                    
+LED104                          LEDC1608X70N                      LEDC1608X70N                    
+LED105                          LEDC1608X70N                      LEDC1608X70N                    
+LED200                          LEDC1608X70N                      LEDC1608X70N                    
+LED201                          LEDC1608X70N                      LEDC1608X70N                    
+LED202                          LEDC1608X70N                      LEDC1608X70N                    
+LED203                          LEDC1608X70N                      LEDC1608X70N                    
+LED204                          LEDC1608X70N                      LEDC1608X70N                    
+LED205                          LEDC1608X70N                      LEDC1608X70N                    
+R100                            RESC2012X50N                      RESC2012X50N                    
+R101                            RESC2012X50N                      RESC2012X50N                    
+R102                            RESC2012X50N                      RESC2012X50N                    
+R103                            RESC2012X50N                      RESC2012X50N                    
+R104                            RESC2012X50N                      RESC2012X50N                    
+R105                            RESC2012X50N                      RESC2012X50N                    
+R200                            RESC2012X50N                      RESC2012X50N                    
+R201                            RESC2012X50N                      RESC2012X50N                    
+R202                            RESC2012X50N                      RESC2012X50N                    
+R203                            RESC2012X50N                      RESC2012X50N                    
+R204                            RESC2012X50N                      RESC2012X50N                    
+R205                            RESC2012X50N                      RESC2012X50N                    
+
+
+---------------    Fri Nov 28 11:51:38 2025  ---------------
+
+
+
+
+---------------  RESET CELL  Fri Nov 28 11:51:46 2025  ---------------
+
+
+LED100                          LEDC1608X70N                      LEDC1608X70N                    
+LED101                          LEDC1608X70N                      LEDC1608X70N                    
+LED102                          LEDC1608X70N                      LEDC1608X70N                    
+LED103                          LEDC1608X70N                      LEDC1608X70N                    
+LED104                          LEDC1608X70N                      LEDC1608X70N                    
+LED105                          LEDC1608X70N                      LEDC1608X70N                    
+LED200                          LEDC1608X70N                      LEDC1608X70N                    
+LED201                          LEDC1608X70N                      LEDC1608X70N                    
+LED202                          LEDC1608X70N                      LEDC1608X70N                    
+LED203                          LEDC1608X70N                      LEDC1608X70N                    
+LED204                          LEDC1608X70N                      LEDC1608X70N                    
+LED205                          LEDC1608X70N                      LEDC1608X70N                    
+R100                            RESC2012X50N                      RESC2012X50N                    
+R101                            RESC2012X50N                      RESC2012X50N                    
+R102                            RESC2012X50N                      RESC2012X50N                    
+R103                            RESC2012X50N                      RESC2012X50N                    
+R104                            RESC2012X50N                      RESC2012X50N                    
+R105                            RESC2012X50N                      RESC2012X50N                    
+R200                            RESC2012X50N                      RESC2012X50N                    
+R201                            RESC2012X50N                      RESC2012X50N                    
+R202                            RESC2012X50N                      RESC2012X50N                    
+R203                            RESC2012X50N                      RESC2012X50N                    
+R204                            RESC2012X50N                      RESC2012X50N                    
+R205                            RESC2012X50N                      RESC2012X50N                    
+
+
+---------------    Fri Nov 28 11:51:46 2025  ---------------
+
+

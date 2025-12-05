@@ -1,0 +1,14 @@
+
+                                    DXFImport
+                                    ---------
+
+                      11:11 AM Thursday, November 27, 2025
+Job Name: C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\PCB\Board1.pcb
+
+    DXFile "C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\AdjustedSnowflake.dxf" loaded successfully.
+    
+
+    DXF data has been imported onto a new layer. 
+    To make this data visible select the checkbox for the new user layer in Display Control.    
+    DXFile "C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\AdjustedSnowflake.dxf" imported successfully.
+    

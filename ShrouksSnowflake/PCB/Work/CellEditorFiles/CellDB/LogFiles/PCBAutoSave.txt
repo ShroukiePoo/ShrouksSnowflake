@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                       11:49 AM Friday, November 28, 2025
+Job Name: C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\PCB\Work\CellEditorFiles\CellDB\LEDC1608X70N.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                       11:50 AM Friday, November 28, 2025
+Job Name: C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\PCB\Work\CellEditorFiles\CellDB\LEDC1608X70N.pcb
+

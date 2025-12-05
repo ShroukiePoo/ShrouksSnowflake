@@ -1,0 +1,112 @@
+[2025.12.03 19:16:33] [0000m.00s.014ms] [0] WELCOME
+[2025.12.03 19:16:33] [0000m.00s.015ms] [1] iCDB Server ver.3.253, u99LbhRtRYplOuK8UVbxEw, build:17496615 created 2025-09-25 13:25:30, sources stamp:u99LbhRtRYplOuK8UVbxEw
+[2025.12.03 19:16:33] [0000m.00s.015ms] [1] Unpublished work. Copyright 2025 Siemens\r\n\r\nThis material contains trade secrets or otherwise confidential\r\ninformation owned by Siemens Industry Software Inc.\r\nor its affiliates (collectively, 'SISW'), or its licensors.\r\nAccess to and use of this information is strictly limited\r\nas set forth in the Customer's applicable agreements with SISW.
+[2025.12.03 19:16:33] [0000m.00s.016ms] [1] Base flow version [2510]
+[2025.12.03 19:16:33] [0000m.00s.016ms] [1] Install Id [76190007], Flow Id [Xpedition Value Based Add Ons 2510], Full Flow Name [Xpedition Value Based Add Ons 2510], Exact Access Date [2025/09/01]
+[2025.12.03 19:16:33] [0000m.00s.016ms] [1] Install Id [76190076], Flow Id [Xpedition Standard 2510], Full Flow Name [Xpedition Standard 2510], Exact Access Date [2025/09/01]
+[2025.12.03 19:16:33] [0000m.00s.021ms] [1] Machine [DESKTOP-H15QKG3]  IP [127.0.0.1,192.168.10.159,192.168.164.1,192.168.32.1,192.168.56.1]  User [shrou]  PID [3368]
+[2025.12.03 19:16:33] [0000m.00s.021ms] [1] Operating system [Microsoft Windows 11 version 24H2 Home Premium Edition, 64-bit (build 26200)]
+[2025.12.03 19:16:33] [0000m.00s.021ms] [1] Current working dir [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\PCB]
+[2025.12.03 19:16:33] [0000m.00s.021ms] [1] PATH [C:\SiemensEDA\XPED2510\SDD_HOME\xe\win64\lib;C:\SiemensEDA\XPED2510\SDD_HOME\common\win64\bin;C:\SiemensEDA\XPED2510\SDD_HOME\common\win64\lib;C:\SiemensEDA\XPED2510\SDD_HOME\common\win32\lib;C:\SiemensEDA\XPED2510\SDD_HOME\common\win64\jre\default\bin;C:\SiemensEDA\XPED2510\MGC_HOME.ixw\bin;C:\SiemensEDA\XPED2510\MGC_HOME.ixw\lib;C:\SiemensEDA\XPED2510\SDD_HOME\wg\win64\lib;C:\SiemensEDA\XPED2510\SDD_HOME\common3D\win64\lib;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Program Files\dotnet\;C:\Program Files\WireGuard\;C:\Program Files\PuTTY\;C:\Program Files\Docker\Docker\resources\bin;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Muse Hub\lib;C:\Users\shrou\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\shrou\AppData\Local\Programs\Python\Python310\;C:\Users\shrou\AppData\Local\Microsoft\WindowsApps;C:\Users\shrou\AppData\Local\GitHubDesktop\bin;C:\Users\shrou\AppData\Local\atom\bin;C:\Users\shrou\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\shrou\AppData\Local\Microsoft\WindowsApps;C:\Users\shrou\AppData\Local\Muse Hub\lib;]
+[2025.12.03 19:16:33] [0000m.00s.021ms] [1] SDD_HOME [C:\SiemensEDA\XPED2510\SDD_HOME] on file system [NTFS]
+[2025.12.03 19:16:33] [0000m.00s.021ms] [1] SDD_PLATFORM [win64]
+[2025.12.03 19:16:33] [0000m.00s.021ms] [1] WDIR [C:\WDIR\XPED2510;C:\SiemensEDA\XPED2510\SDD_HOME\standard;]
+[2025.12.03 19:16:33] [0000m.00s.021ms] [1] Local iCDB working dir [C:\WDIR\XPED2510\iCDB] on file system [NTFS]
+[2025.12.03 19:16:33] [0000m.00s.021ms] [2] S: Loading config files
+[2025.12.03 19:16:33] [0000m.00s.023ms] [1] Config file [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\database\cdbsvr\Server.cfg] not found
+[2025.12.03 19:16:33] [0000m.00s.023ms] [3] S: Config loaded
+[2025.12.03 19:16:33] [0000m.00s.025ms] [0] S: Project path [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\database] on file system [NTFS]
+[2025.12.03 19:16:33] [0000m.00s.025ms] [0] S: Project file (.prj) path [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\ShrouksSnowflake.prj] on file system [NTFS]
+[2025.12.03 19:16:33] [0000m.00s.025ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2025.12.03 19:16:33] [0000m.00s.025ms] [0] S: Single-user mode (auto)
+[2025.12.03 19:16:33] [0000m.00s.025ms] [0] S: Event polling mode autodetection
+[2025.12.03 19:16:33] [0000m.00s.025ms] [0] S: Started up automatically by iCDB Client: DESKTOP-H15QKG3:shrou:22192
+[2025.12.03 19:16:33] [0000m.00s.025ms] [0] S: Auto close mode
+[2025.12.03 19:16:33] [0000m.00s.025ms] [0] S: Database ID [ff8b-b3a5-9329-372a-be4d-6291-f4d6-2960-4ca9-7454-bf6d-4941]
+[2025.12.03 19:16:33] [0000m.00s.025ms] [0] PathTranslator: BEGIN dumping
+[2025.12.03 19:16:33] [0000m.00s.025ms] [0] PathTranslator: Local -> global path prefix list
+[2025.12.03 19:16:33] [0000m.00s.025ms] [0] PathTranslator: [C:\Users] -> [\\DESKTOP-H15QKG3\Users]
+[2025.12.03 19:16:33] [0000m.00s.025ms] [0] PathTranslator: Global -> local path prefix list
+[2025.12.03 19:16:33] [0000m.00s.025ms] [0] PathTranslator: [\\DESKTOP-H15QKG3\Users] -> [C:\Users]
+[2025.12.03 19:16:33] [0000m.00s.025ms] [0] PathTranslator: END dumping
+[2025.12.03 19:16:33] [0000m.00s.025ms] [0] S: START
+[2025.12.03 19:16:33] [0000m.00s.025ms] [0] S: Server startup lock file created
+[2025.12.03 19:16:33] [0000m.00s.026ms] [0] S: Listening for client connections on port [10000]
+[2025.12.03 19:16:33] [0000m.00s.030ms] [0] S: Server network ID [DESKTOP-H15QKG3:192.168.10.159,192.168.164.1,192.168.32.1,192.168.56.1,DESKTOP-H15QKG3:10000]
+[2025.12.03 19:16:33] [0000m.00s.030ms] [0] S: Server GUID [9571-325b-49c6-390b-19c8-0397-9c80-3960-4f39-7454-bf6d-4941]
+[2025.12.03 19:16:33] [0000m.00s.030ms] [0] S: Project GUID [ff8b-b3a5-9329-372a-be4d-6291-f4d6-2960-4ca9-7454-bf6d-4941]
+[2025.12.03 19:16:33] [0000m.00s.031ms] [0] S: Wrote data to server address file
+[2025.12.03 19:16:33] [0000m.00s.031ms] [0] S: Server startup lock file removed
+[2025.12.03 19:16:33] [0000m.00s.031ms] [1] ProjectBackupManager: Setting project file (.prj) path: [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\ShrouksSnowflake.prj]
+[2025.12.03 19:16:33] [0000m.00s.062ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2025.12.03 19:16:33] [0000m.00s.062ms] [1] ServerToolkit: INFO: Plugin not found in SDD_ICDB_BIN [C:\SiemensEDA\XPED2510\SDD_HOME\iCDB\win64\bin]
+[2025.12.03 19:16:33] [0000m.00s.062ms] [1] ServerToolkit: INFO: Plugin not found in SDD_COMMON_BIN [C:\SiemensEDA\XPED2510\SDD_HOME\common\win64\bin]
+[2025.12.03 19:16:33] [0000m.00s.062ms] [1] ServerToolkit: INFO: Plugin not found in PATH
+[2025.12.03 19:16:33] [0000m.00s.062ms] [1] ServerToolkit: INFO: Plugin not found in CWD
+[2025.12.03 19:16:33] [0000m.00s.062ms] [1] ServerToolkit: INFO: returning just plugin exe name!
+[2025.12.03 19:16:33] [0000m.00s.062ms] [0] S: Local disc access time: 15 us
+[2025.12.03 19:16:33] [0000m.00s.062ms] [0] S: File server access time: 16 us
+[2025.12.03 19:16:33] [0000m.00s.063ms] [0] Single file [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\database\icdb.dat] size [173776 (169.7 kB)]
+[2025.12.03 19:16:33] [0000m.00s.063ms] [1] Single file [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\database\icdb.dat] opened in read-write mode
+[2025.12.03 19:16:33] [0000m.00s.063ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2025.12.03 19:16:33] [0000m.00s.063ms] [0] Database GUARD OK: [173776]
+[2025.12.03 19:16:33] [0000m.00s.064ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2025.12.03 19:16:33] [0000m.00s.064ms] [0] Database GUARD OK: [173776]
+[2025.12.03 19:16:33] [0000m.00s.064ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2025.12.03 19:16:33] [0000m.00s.064ms] [0] Database GUARD OK: [173776]
+[2025.12.03 19:16:33] [0000m.00s.064ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2025.12.03 19:16:33] [0000m.00s.064ms] [0] Database GUARD OK: [173776]
+[2025.12.03 19:16:33] [0000m.00s.064ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2025.12.03 19:16:33] [0000m.00s.064ms] [0] Database GUARD OK: [173776]
+[2025.12.03 19:16:33] [0000m.00s.064ms] [0] SingleFile: [ea82-aa8b-386d-a9db] SFI version check [1009] [1009]
+[2025.12.03 19:16:33] [0000m.00s.067ms] [0] SingleFile: [ea82-aa8b-386d-a9db] Database SFI header has been read in [2ms 497us]
+[2025.12.03 19:16:33] [0000m.00s.069ms] [0] iCDB Server PI: Server & plugin session [281]
+[2025.12.03 19:16:33] [0000m.00s.069ms] [0] iCDB Server PI: Opening database [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\database]
+[2025.12.03 19:16:33] [0000m.00s.069ms] [0] iCDB Server PI: Database [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\database] opened
+[2025.12.03 19:16:33] [0000m.00s.085ms] [0] iCDB Database: Checking existence of constraint definitions
+[2025.12.03 19:16:33] [0000m.00s.085ms] [0] iCDB Database: Checking constraint definitions version
+[2025.12.03 19:16:33] [0000m.00s.120ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.80] up to date
+[2025.12.03 19:16:33] [0000m.00s.122ms] [0] iCDB Server PI: Initializing plugins
+[2025.12.03 19:16:33] [0000m.00s.123ms] [0] iCDB Server PI: Plugins initialized
+[2025.12.03 19:16:33] [0000m.00s.123ms] [0] S: iCDB database loaded
+[2025.12.03 19:16:33] [0000m.00s.124ms] [0] S: Starting threads
+[2025.12.03 19:16:33] [0000m.00s.124ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2025.12.03 19:16:33] [0000m.00s.124ms] [0] BT: Listening for broadcast messages on port [10000]
+[2025.12.03 19:16:33] [0000m.00s.125ms] [0] IT: Session [282] for host [DESKTOP-H15QKG3] user [shrou] client type[0] clsvrPluginID[0] with process ID [22192] created
+[2025.12.03 19:16:33] [0000m.00s.128ms] [1] SC[282]: Registered sub-client [Expedition PCB_36932171] with ID [1] for session ID [282] host [DESKTOP-H15QKG3] user [shrou] process ID [22192]
+[2025.12.03 19:16:33] [0000m.00s.129ms] [0] MWT: WindowProc: WM_NCCREATE
+[2025.12.03 19:16:33] [0000m.00s.182ms] [1] SC[282]: Registered sub-client [EEVM_EEVM_692398896] with ID [2] for session ID [282] host [DESKTOP-H15QKG3] user [shrou] process ID [22192]
+[2025.12.03 19:16:33] [0000m.00s.189ms] [1] SC[282]: UnRegistered sub-client [EEVM_EEVM_692398896] with ID [2] for session ID [282] host [DESKTOP-H15QKG3] user [shrou] process ID [22192]
+[2025.12.03 19:16:33] [0000m.00s.192ms] [1] SC[282]: Registered sub-client [EEVM_EEVM_692398896] with ID [3] for session ID [282] host [DESKTOP-H15QKG3] user [shrou] process ID [22192]
+[2025.12.03 19:16:33] [0000m.00s.197ms] [1] SC[282]: UnRegistered sub-client [EEVM_EEVM_692398896] with ID [3] for session ID [282] host [DESKTOP-H15QKG3] user [shrou] process ID [22192]
+[2025.12.03 19:16:33] [0000m.00s.227ms] [1] CMT: There are [1] clients now: 282
+[2025.12.03 19:16:33] [0000m.00s.319ms] [1] SC[282]: Registered sub-client [JobPrefsDBPI_36932531] with ID [4] for session ID [282] host [DESKTOP-H15QKG3] user [shrou] process ID [22192]
+[2025.12.03 19:16:33] [0000m.00s.321ms] [1] SC[282]: UnRegistered sub-client [JobPrefsDBPI_36932531] with ID [4] for session ID [282] host [DESKTOP-H15QKG3] user [shrou] process ID [22192]
+[2025.12.03 19:16:35] [0000m.01s.686ms] [1] SC[282]: Registered sub-client [JobPrefsDBPI_36933906] with ID [5] for session ID [282] host [DESKTOP-H15QKG3] user [shrou] process ID [22192]
+[2025.12.03 19:16:35] [0000m.01s.692ms] [1] SC[282]: UnRegistered sub-client [JobPrefsDBPI_36933906] with ID [5] for session ID [282] host [DESKTOP-H15QKG3] user [shrou] process ID [22192]
+[2025.12.03 19:16:36] [0000m.02s.830ms] [1] SC[282]: Registered sub-client [JobPrefsDBPI_36935046] with ID [6] for session ID [282] host [DESKTOP-H15QKG3] user [shrou] process ID [22192]
+[2025.12.03 19:16:36] [0000m.02s.836ms] [1] SC[282]: UnRegistered sub-client [JobPrefsDBPI_36935046] with ID [6] for session ID [282] host [DESKTOP-H15QKG3] user [shrou] process ID [22192]
+[2025.12.03 19:16:36] [0000m.02s.867ms] [1] SC[282]: Registered sub-client [ExpeditionCrossProber] with ID [7] for session ID [282] host [DESKTOP-H15QKG3] user [shrou] process ID [22192]
+[2025.12.03 19:16:36] [0000m.02s.869ms] [1] SC[282]: Registered sub-client [StartServerClient5f8c] with ID [8] for session ID [282] host [DESKTOP-H15QKG3] user [shrou] process ID [22192]
+[2025.12.03 19:16:36] [0000m.02s.869ms] [1] SC[282]: UnRegistered sub-client [StartServerClient5f8c] with ID [8] for session ID [282] host [DESKTOP-H15QKG3] user [shrou] process ID [22192]
+[2025.12.03 19:16:40] [0000m.07s.364ms] [1] SC[282]: Registered sub-client [XPDAddin_36939578] with ID [9] for session ID [282] host [DESKTOP-H15QKG3] user [shrou] process ID [22192]
+[2025.12.03 19:16:40] [0000m.07s.364ms] [1] SC[282]: UnRegistered sub-client [XPDAddin_36939578] with ID [9] for session ID [282] host [DESKTOP-H15QKG3] user [shrou] process ID [22192]
+[2025.12.03 19:18:35] [0002m.02s.293ms] [0] DFAMT: File server access time: 30 us
+[2025.12.03 19:26:01] [0009m.27s.575ms] [1] SC[282]: Registered sub-client [JobPrefsDBPI_37499796] with ID [10] for session ID [282] host [DESKTOP-H15QKG3] user [shrou] process ID [22192]
+[2025.12.03 19:26:01] [0009m.27s.576ms] [1] SC[282]: UnRegistered sub-client [JobPrefsDBPI_37499796] with ID [10] for session ID [282] host [DESKTOP-H15QKG3] user [shrou] process ID [22192]
+[2025.12.03 19:26:01] [0009m.27s.944ms] [0] IT: Session [283] for host [DESKTOP-H15QKG3] user [shrou] client type[0] clsvrPluginID[0] with process ID [10564] created
+[2025.12.03 19:26:01] [0009m.27s.945ms] [1] SC[283]: Registered sub-client [JobPrefsDBPI_37500125] with ID [1] for session ID [283] host [DESKTOP-H15QKG3] user [shrou] process ID [10564]
+[2025.12.03 19:26:01] [0009m.27s.964ms] [1] SC[283]: UnRegistered sub-client [JobPrefsDBPI_37500125] with ID [1] for session ID [283] host [DESKTOP-H15QKG3] user [shrou] process ID [10564]
+[2025.12.03 19:26:01] [0009m.27s.969ms] [1] CMT: There are [2] clients now: 282, 283
+[2025.12.03 19:26:01] [0009m.27s.969ms] [1] CMT: Removed client [283]
+[2025.12.03 19:26:01] [0009m.27s.969ms] [1] CMT: There are [1] clients now: 282
+[2025.12.03 19:26:02] [0009m.28s.756ms] [1] SC[282]: Registered sub-client [EEVM_shrou_PID_22192_-1255710704] with ID [11] for session ID [282] host [DESKTOP-H15QKG3] user [shrou] process ID [22192]
+[2025.12.03 19:26:02] [0009m.28s.781ms] [1] SC[282]: Registered sub-client [VariantLayerManagerImpl-00000000B5F990A0] with ID [12] for session ID [282] host [DESKTOP-H15QKG3] user [shrou] process ID [22192]
+[2025.12.03 19:26:02] [0009m.28s.782ms] [1] SC[282]: UnRegistered sub-client [VariantLayerManagerImpl-00000000B5F990A0] with ID [12] for session ID [282] host [DESKTOP-H15QKG3] user [shrou] process ID [22192]
+[2025.12.03 19:26:02] [0009m.28s.785ms] [1] SC[282]: UnRegistered sub-client [EEVM_shrou_PID_22192_-1255710704] with ID [11] for session ID [282] host [DESKTOP-H15QKG3] user [shrou] process ID [22192]
+[2025.12.03 19:26:05] [0009m.31s.833ms] [0] IT: Session [284] for host [DESKTOP-H15QKG3] user [shrou] client type[0] clsvrPluginID[0] with process ID [15156] created
+[2025.12.03 19:26:05] [0009m.31s.834ms] [1] SC[284]: Registered sub-client [JobWizard_37504031] with ID [1] for session ID [284] host [DESKTOP-H15QKG3] user [shrou] process ID [15156]
+[2025.12.03 19:26:05] [0009m.31s.843ms] [1] SC[284]: UnRegistered sub-client [JobWizard_37504031] with ID [1] for session ID [284] host [DESKTOP-H15QKG3] user [shrou] process ID [15156]
+[2025.12.03 19:26:05] [0009m.31s.868ms] [1] CMT: There are [2] clients now: 282, 284
+[2025.12.03 19:26:05] [0009m.31s.868ms] [1] CMT: Removed client [284]
+[2025.12.03 19:26:05] [0009m.31s.868ms] [1] CMT: There are [1] clients now: 282

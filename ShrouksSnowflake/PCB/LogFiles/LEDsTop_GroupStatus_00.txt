@@ -1,0 +1,41 @@
+========================================================================
+Xpedition Layout - 2510.76190007
+========================================================================
+
+Job Directory:        C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\PCB\
+
+Group Status Report:  C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\PCB\LogFiles\LEDsTop_GroupStatus_00.txt
+
+Thu Nov 27 13:30:33 2025
+
+========================================================================
+GROUP STATUS
+========================================================================
+
+Name:  LEDsTop
+State: Unplanned
+
+Location (mm)
+             X: 0
+             Y: 22.885
+
+Placement Settings
+    Facement:      Top
+    Angle (deg):   0
+
+Sub groups and Placement Settings
+    Name                                      Facement   Angle (deg)   
+    Newgroup3                                 Top        0             
+
+
+Components
+    Total components in group(s) .......... 11
+    Total components in all sub groups .... 2
+
+Max height of group (mm) .................. 10.9
+
+Routing Objects in Group(s)
+    Total traces .......................... 0
+    Total trace length (mm) ............... 0
+    Total vias ............................ 0
+    Total complex vias .................... 0

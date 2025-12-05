@@ -1,0 +1,14 @@
+Layer=assemb;file=assemb.gdo;format=274x;coord=abs;units=inch;number_fmt=2.6;zero_omission=Lead
+Layer=assemt;file=assemt.gdo;format=274x;coord=abs;units=inch;number_fmt=2.6;zero_omission=Lead
+Layer=odb_board_outline;file=odb_board_outline.gdo;format=274x;coord=abs;units=inch;number_fmt=2.6;zero_omission=Lead
+Layer=signal_1;file=signal_1.gdo;format=274x;coord=abs;units=inch;number_fmt=2.6;zero_omission=Lead
+Layer=signal_2;file=signal_2.gdo;format=274x;coord=abs;units=inch;number_fmt=2.6;zero_omission=Lead
+Layer=signal_3;file=signal_3.gdo;format=274x;coord=abs;units=inch;number_fmt=2.6;zero_omission=Lead
+Layer=signal_4;file=signal_4.gdo;format=274x;coord=abs;units=inch;number_fmt=2.6;zero_omission=Lead
+Layer=smb;file=smb.gdo;format=274x;coord=abs;units=inch;number_fmt=2.6;zero_omission=Lead
+Layer=smt;file=smt.gdo;format=274x;coord=abs;units=inch;number_fmt=2.6;zero_omission=Lead
+Layer=spb;file=spb.gdo;format=274x;coord=abs;units=inch;number_fmt=2.6;zero_omission=Lead
+Layer=spt;file=spt.gdo;format=274x;coord=abs;units=inch;number_fmt=2.6;zero_omission=Lead
+Layer=ssb;file=ssb.gdo;format=274x;coord=abs;units=inch;number_fmt=2.6;zero_omission=Lead
+Layer=sst;file=sst.gdo;format=274x;coord=abs;units=inch;number_fmt=2.6;zero_omission=Lead
+Layer=d_1_4;file=d_1_4.ncd;format=Excellon;coord=abs;units=inch;number_fmt=2.4;zero_omission=Trail;tool_units=inch;sep="\r"

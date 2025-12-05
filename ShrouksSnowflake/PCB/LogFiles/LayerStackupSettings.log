@@ -1,0 +1,6 @@
+
+Error: on opening parser input file (C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\PCB\Config\LayerStackupSettings.hkp) for reading.
+(check for a file or directory permission problem)
+
+Error HKParser initialization error <3>
+Error reading LayerStackup Settings File "C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\PCB\Config\LayerStackupSettings.hkp"

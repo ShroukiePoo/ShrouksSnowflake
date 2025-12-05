@@ -1,0 +1,314 @@
+
+                               Forward Annotation
+                               ------------------
+
+                      03:44 PM Thursday, November 27, 2025
+Job Name: C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\PCB\Board1.pcb
+
+
+Version:  01.01.00
+
+     The PDBs listed in the project file will be searched to satisfy the parts
+      requirements of the iCDB and to refresh with newer data any duplicates found in the
+      Target PDB.
+
+     The schematic source is a Common Data Base.
+
+     The AllowAlphaRefDes status indicates that reference
+      designators containing all alpha characters should be deleted
+      and the relevant symbols repackaged.
+
+
+
+     Common Data Base has been read
+
+     Target PDB Name: Work\Layout_Temp\PartsDB.pdb
+
+     Number of Part Numbers: 3
+          Part Numb: SMTU_2477N-1-LF -> Vend Part: SMTU_2477N-1-LF 
+          Part Numb: VISHAYINTERTECHNOLOGIE_CRCW08052K00JNEA -> Vend Part: VISHAYINTERTECHNOLOGIE_CRCW08052K00JNEA 
+          Part Numb: WURTHELEKTRONIK_150060RS75000 -> Vend Part: WURTHELEKTRONIK_150060RS75000 
+
+     Number of Part Names: 0
+
+     Number of Part Labels: 0
+
+
+     Checking for value differences between symbol properties and PartsDB properties
+
+    WARNING: Block Schematic1!BatteryLEDsBack, Page 1, Symbol $1I53:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = VISHAYINTERTECHNOLOGIE_CRCW08052K00JNEA
+      Symbol Property: Description = Fixed Resistor, Metal Glaze/thick Film, 0.125W, 2000ohm, 150V, 5% +/-Tol, 200ppm/Cel, Surface Mount, 0805, CHIP, HALOGEN FREE AND ROHS COMPLIANT
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1!BatteryLEDsBack, Page 1, Symbol $1I49:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = VISHAYINTERTECHNOLOGIE_CRCW08052K00JNEA
+      Symbol Property: Description = Fixed Resistor, Metal Glaze/thick Film, 0.125W, 2000ohm, 150V, 5% +/-Tol, 200ppm/Cel, Surface Mount, 0805, CHIP, HALOGEN FREE AND ROHS COMPLIANT
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1!BatteryLEDsBack, Page 1, Symbol $1I45:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = VISHAYINTERTECHNOLOGIE_CRCW08052K00JNEA
+      Symbol Property: Description = Fixed Resistor, Metal Glaze/thick Film, 0.125W, 2000ohm, 150V, 5% +/-Tol, 200ppm/Cel, Surface Mount, 0805, CHIP, HALOGEN FREE AND ROHS COMPLIANT
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1!BatteryLEDsBack, Page 1, Symbol $1I41:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = VISHAYINTERTECHNOLOGIE_CRCW08052K00JNEA
+      Symbol Property: Description = Fixed Resistor, Metal Glaze/thick Film, 0.125W, 2000ohm, 150V, 5% +/-Tol, 200ppm/Cel, Surface Mount, 0805, CHIP, HALOGEN FREE AND ROHS COMPLIANT
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1!BatteryLEDsBack, Page 1, Symbol $1I37:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = VISHAYINTERTECHNOLOGIE_CRCW08052K00JNEA
+      Symbol Property: Description = Fixed Resistor, Metal Glaze/thick Film, 0.125W, 2000ohm, 150V, 5% +/-Tol, 200ppm/Cel, Surface Mount, 0805, CHIP, HALOGEN FREE AND ROHS COMPLIANT
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1!BatteryLEDsBack, Page 1, Symbol $1I32:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = VISHAYINTERTECHNOLOGIE_CRCW08052K00JNEA
+      Symbol Property: Description = Fixed Resistor, Metal Glaze/thick Film, 0.125W, 2000ohm, 150V, 5% +/-Tol, 200ppm/Cel, Surface Mount, 0805, CHIP, HALOGEN FREE AND ROHS COMPLIANT
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1!BatteryLEDsFront, Page 1, Symbol $1I53:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = VISHAYINTERTECHNOLOGIE_CRCW08052K00JNEA
+      Symbol Property: Description = Fixed Resistor, Metal Glaze/thick Film, 0.125W, 2000ohm, 150V, 5% +/-Tol, 200ppm/Cel, Surface Mount, 0805, CHIP, HALOGEN FREE AND ROHS COMPLIANT
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1!BatteryLEDsFront, Page 1, Symbol $1I49:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = VISHAYINTERTECHNOLOGIE_CRCW08052K00JNEA
+      Symbol Property: Description = Fixed Resistor, Metal Glaze/thick Film, 0.125W, 2000ohm, 150V, 5% +/-Tol, 200ppm/Cel, Surface Mount, 0805, CHIP, HALOGEN FREE AND ROHS COMPLIANT
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1!BatteryLEDsFront, Page 1, Symbol $1I45:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = VISHAYINTERTECHNOLOGIE_CRCW08052K00JNEA
+      Symbol Property: Description = Fixed Resistor, Metal Glaze/thick Film, 0.125W, 2000ohm, 150V, 5% +/-Tol, 200ppm/Cel, Surface Mount, 0805, CHIP, HALOGEN FREE AND ROHS COMPLIANT
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1!BatteryLEDsFront, Page 1, Symbol $1I41:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = VISHAYINTERTECHNOLOGIE_CRCW08052K00JNEA
+      Symbol Property: Description = Fixed Resistor, Metal Glaze/thick Film, 0.125W, 2000ohm, 150V, 5% +/-Tol, 200ppm/Cel, Surface Mount, 0805, CHIP, HALOGEN FREE AND ROHS COMPLIANT
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1!BatteryLEDsFront, Page 1, Symbol $1I37:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = VISHAYINTERTECHNOLOGIE_CRCW08052K00JNEA
+      Symbol Property: Description = Fixed Resistor, Metal Glaze/thick Film, 0.125W, 2000ohm, 150V, 5% +/-Tol, 200ppm/Cel, Surface Mount, 0805, CHIP, HALOGEN FREE AND ROHS COMPLIANT
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1!BatteryLEDsFront, Page 1, Symbol $1I32:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = VISHAYINTERTECHNOLOGIE_CRCW08052K00JNEA
+      Symbol Property: Description = Fixed Resistor, Metal Glaze/thick Film, 0.125W, 2000ohm, 150V, 5% +/-Tol, 200ppm/Cel, Surface Mount, 0805, CHIP, HALOGEN FREE AND ROHS COMPLIANT
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1!BatteryLEDsBack, Page 1, Symbol $1I54:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = WURTHELEKTRONIK_150060RS75000
+      Symbol Property: Description = Single Color LED, Red, Water Clear, 1.1mm,
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1!BatteryLEDsBack, Page 1, Symbol $1I50:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = WURTHELEKTRONIK_150060RS75000
+      Symbol Property: Description = Single Color LED, Red, Water Clear, 1.1mm,
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1!BatteryLEDsBack, Page 1, Symbol $1I46:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = WURTHELEKTRONIK_150060RS75000
+      Symbol Property: Description = Single Color LED, Red, Water Clear, 1.1mm,
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1!BatteryLEDsBack, Page 1, Symbol $1I42:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = WURTHELEKTRONIK_150060RS75000
+      Symbol Property: Description = Single Color LED, Red, Water Clear, 1.1mm,
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1!BatteryLEDsBack, Page 1, Symbol $1I38:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = WURTHELEKTRONIK_150060RS75000
+      Symbol Property: Description = Single Color LED, Red, Water Clear, 1.1mm,
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1!BatteryLEDsBack, Page 1, Symbol $1I33:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = WURTHELEKTRONIK_150060RS75000
+      Symbol Property: Description = Single Color LED, Red, Water Clear, 1.1mm,
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1!BatteryLEDsFront, Page 1, Symbol $1I54:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = WURTHELEKTRONIK_150060RS75000
+      Symbol Property: Description = Single Color LED, Red, Water Clear, 1.1mm,
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1!BatteryLEDsFront, Page 1, Symbol $1I50:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = WURTHELEKTRONIK_150060RS75000
+      Symbol Property: Description = Single Color LED, Red, Water Clear, 1.1mm,
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1!BatteryLEDsFront, Page 1, Symbol $1I46:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = WURTHELEKTRONIK_150060RS75000
+      Symbol Property: Description = Single Color LED, Red, Water Clear, 1.1mm,
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1!BatteryLEDsFront, Page 1, Symbol $1I42:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = WURTHELEKTRONIK_150060RS75000
+      Symbol Property: Description = Single Color LED, Red, Water Clear, 1.1mm,
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1!BatteryLEDsFront, Page 1, Symbol $1I38:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = WURTHELEKTRONIK_150060RS75000
+      Symbol Property: Description = Single Color LED, Red, Water Clear, 1.1mm,
+     PartsDB Property: Description = 
+
+    WARNING: Block Schematic1!BatteryLEDsFront, Page 1, Symbol $1I33:
+	Symbol / PartsDB property mismatch:
+      Resolved PartNumber = WURTHELEKTRONIK_150060RS75000
+      Symbol Property: Description = Single Color LED, Red, Water Clear, 1.1mm,
+     PartsDB Property: Description = 
+
+     Checking the validity of the packaging of prepackaged schematic
+      symbols.  Only the first error in symbols having the same
+      Reference Designator will be reported.
+
+     The packaging of all prepackaged schematic symbols is consistent
+      with the Parts DataBase data for the cross mapping of
+      symbol pin names to Part Number pin numbers.
+      Symbols that were not prepackaged will now be packaged correctly.
+      
+     No errors in Existing Schematic Packaging.
+
+     The Common DataBase has been read and will be packaged.
+     Clustering 26 Symbols:
+              26  *************************
+     Clustering is Complete
+
+     Packager Assignments successfully completed
+
+
+
+     15 nets were found containing 52 pins
+     26 components were found
+
+     Creating a formatted Schematic Netlist (LogFiles\SchematicNetlist.txt)...
+     A formatted Schematic Netlist has been created.
+
+     The Logic DataBase has been compiled from the Schematic Design.
+      Use Netload to bring the Component Design into sync.
+
+     This Logic Data was Compiled with 24 warnings.
+      Erroneous results may occur if not fixed.
+
+                                     NetLoad
+                                     -------
+
+                      03:44 PM Thursday, November 27, 2025
+Job Name: C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\PCB\Board1.pcb
+
+
+Version:  02.11.12
+
+	Netloading the Layout.  Unused components will be deleted.
+
+	Unconnected pins will be set to net "(Net0)".
+
+	Schematic reference designator changes will be forward annotated.
+
+
+     WARNING:  The "CR2477HFN" cell used by "BT100" in the Layout is not
+      valid for a "SMTU_2477N-1-LF" Part Number.
+      Since this cell is unplaced, it will be removed and reinserted as a
+      valid unplaced cell.
+     INFO: Cell "CR2477HFN" is being replaced by cell "SMTU_2477N-1-LF".
+
+     WARNING:  The "CR2477HFN" cell used by "BT200" in the Layout is not
+      valid for a "SMTU_2477N-1-LF" Part Number.
+      Since this cell is unplaced, it will be removed and reinserted as a
+      valid unplaced cell.
+     INFO: Cell "CR2477HFN" is being replaced by cell "SMTU_2477N-1-LF".
+
+     The following 2 components have not been placed:
+
+        BT100
+        BT200
+
+     Netload completed successfully with 2 warning(s).
+     
+     Back Annotating...
+
+  Updating Logic Database...
+
+     Version:  99.00.05
+
+     No changes made to Existing Schematic Packaging.
+
+
+     There is no symbol data to be back annotated to the schematic source.
+
+
+     The Logic DataBase has been updated and the Common DataBase has
+      automatically been brought into sync with the Logic DataBase.
+      Please proceed with your design.
+
+     Finished updating the Logic Database.
+
+     Creating a formatted Schematic Netlist (LogFiles\AfterBakAnnoNetlist.txt)...
+     A formatted Schematic Netlist has been created.
+
+            Creating a new netlist text file (LogFiles\KeyinNetList.txt)
+            from the Logic Database (Work\Layout_Temp\LogicDB.lgc)...
+  A new netlist text file has been generated.
+
+
+
+                 Beginning Netload on the Layout Design.
+           ---------------------------------------------------
+	Assigned net +3VBot to a via which was originally on net +3V.
+	Assigned net +3VBot to a trace which was originally on net +3V.
+	Assigned net +3VBot to a via which was originally on net +3V.
+	Assigned net +3VBot to a trace which was originally on net +3V.
+	Assigned net +3VBot to a via which was originally on net +3V.
+	Assigned net +3VBot to a trace which was originally on net +3V.
+	Assigned net +3VBot to a via which was originally on net +3V.
+	Assigned net +3VBot to a trace which was originally on net +3V.
+	Assigned net +3VBot to a via which was originally on net +3V.
+	Assigned net +3VBot to a trace which was originally on net +3V.
+	Assigned net +3VBot to a via which was originally on net +3V.
+	Assigned net +3VBot to a trace which was originally on net +3V.
+	Assigned net +3VTop to a via which was originally on net +3V.
+	Assigned net +3VTop to a trace which was originally on net +3V.
+	Assigned net +3VTop to a via which was originally on net +3V.
+	Assigned net +3VTop to a trace which was originally on net +3V.
+	Assigned net +3VTop to a via which was originally on net +3V.
+	Assigned net +3VTop to a trace which was originally on net +3V.
+	Assigned net +3VTop to a via which was originally on net +3V.
+	Assigned net +3VTop to a trace which was originally on net +3V.
+	Assigned net +3VTop to a trace which was originally on net +3V.
+	Assigned net +3VTop to a via which was originally on net +3V.
+	Assigned net +3VTop to a trace which was originally on net +3V.
+	Assigned net +3VTop to a via which was originally on net +3V.
+	Assigned net +3VTop to a trace which was originally on net +3V.
+
+Some nets were completely deleted from the Layout Design....
+	Deleted net +3V, which has no pins, from the Layout Design.
+
+Forward-Annotation on the Layout Design has been successfully completed.
+
+There were 25 reassignments of nets.
+There were 0 traces broken back.
+There were 1 nets removed from the Layout Design.
+
+03:45 PM Thursday, November 27, 2025

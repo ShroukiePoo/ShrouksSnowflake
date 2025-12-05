@@ -1,0 +1,37 @@
+<wfState parentWizardPath="C:/SiemensEDA/XPED2510/SDD_HOME/odb4exp/sys/wizards/odb4exp.xmlz">
+    <variables>
+        <variable name="textCurrentDC" value=""/>
+        <variable name="oASM" value="fatf"/>
+        <variable name="bIsFile" value="false"/>
+        <variable name="bIsPrivileged" value="false"/>
+        <variable name="pOutputPath" value="C:/Projects/3. 12th May to/2. Siemens/2. Daves Training/ShrouksSnowflake/PCB/Output/ODBpp"/>
+        <variable name="elSTEP" value="board1"/>
+        <variable name="intSTATUS" value="0"/>
+        <variable name="textCurrentMode" value="silent"/>
+        <variable name="oInvocationMode" value="cam_compare"/>
+        <variable name="elDPRS" value=""/>
+        <variable name="oEDA" value="mentor_boardstation"/>
+        <variable name="boolIsDirectMode" value="true"/>
+        <variable name="pEDASourcePath" value="C:/Projects/3. 12th May to/2. Siemens/2. Daves Training/ShrouksSnowflake/PCB/Output/ODBpp/designodb"/>
+        <variable name="tStepName" value="board1"/>
+        <variable name="tDesignName" value="designodb"/>
+        <variable name="bNetlist" value="false"/>
+        <variable name="bAttrAssignment" value="false"/>
+        <variable name="textCOMANS" value="num_diffs 1 net_stat 0"/>
+        <variable name="bIPC" value="false"/>
+        <variable name="elJOB" value="designodb"/>
+        <variable name="listDBList" value=""/>
+        <variable name="pIPCPath" value=""/>
+        <variable name="oCompression" value="tar_gzip"/>
+        <variable name="pCamFilesPath" value="C:/Projects/3. 12th May to/2. Siemens/2. Daves Training/ShrouksSnowflake/PCB/Output/ODBpp/ODBPPIns_GN"/>
+    </variables>
+    <stages>
+        <stage name="Settings_Preferences" skip="false">
+            <variables>
+                <variable name="tGuiLessModeYesNo" value="no"/>
+                <variable name="iNumSteps" value="1"/>
+            </variables>
+        </stage>
+    </stages>
+    <executionState designCenter="" executionMode="silent" nextBlockIndex="9" nextCmdIndex="2" nextStageIndex="0" nextStageName="Settings_Preferences" running="true"/>
+</wfState>

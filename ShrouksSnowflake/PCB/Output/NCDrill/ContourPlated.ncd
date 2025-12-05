@@ -1,0 +1,23 @@
+; Version : LOCAL
+; Job     : C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\PCB\Board1.pcb
+; User    : DESKTOP-H15QKG3:shrou
+; Date    : Fri Dec 05 17:27:11 2025
+; Format  : 3.3 / Absolute / MM / Leading
+; Contents: Thru / Mill / Plated
+M48
+METRIC,TZ
+FMAT,2
+ICI,OFF
+T02C3.000
+%
+M71
+G90
+G93X0Y0
+T02
+G00Y48260
+M15
+G01Y48760
+Y47760
+M17
+T00
+M30

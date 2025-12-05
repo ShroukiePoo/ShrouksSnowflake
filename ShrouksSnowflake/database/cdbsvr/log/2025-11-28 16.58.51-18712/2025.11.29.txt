@@ -1,0 +1,106 @@
+[2025.11.29 11:10:01] [1091m.08s.897ms] [1] SC[143]: Registered sub-client [JobPrefsDBPI_1298909890] with ID [44] for session ID [143] host [DESKTOP-H15QKG3] user [shrou] process ID [25116]
+[2025.11.29 11:10:01] [1091m.08s.911ms] [1] SC[143]: UnRegistered sub-client [JobPrefsDBPI_1298909890] with ID [44] for session ID [143] host [DESKTOP-H15QKG3] user [shrou] process ID [25116]
+[2025.11.29 11:10:01] [1091m.08s.948ms] [1] SC[143]: Registered sub-client [JobPrefsDBPI_1298909937] with ID [45] for session ID [143] host [DESKTOP-H15QKG3] user [shrou] process ID [25116]
+[2025.11.29 11:10:01] [1091m.08s.955ms] [1] SC[143]: UnRegistered sub-client [JobPrefsDBPI_1298909937] with ID [45] for session ID [143] host [DESKTOP-H15QKG3] user [shrou] process ID [25116]
+[2025.11.29 11:10:01] [1091m.08s.981ms] [1] SC[143]: Registered sub-client [JobPrefsDBPI_1298909984] with ID [46] for session ID [143] host [DESKTOP-H15QKG3] user [shrou] process ID [25116]
+[2025.11.29 11:10:01] [1091m.08s.985ms] [1] SC[143]: UnRegistered sub-client [JobPrefsDBPI_1298909984] with ID [46] for session ID [143] host [DESKTOP-H15QKG3] user [shrou] process ID [25116]
+[2025.11.29 11:10:01] [1091m.09s.042ms] [1] SC[143]: Registered sub-client [JobPrefsDBPI_1298910031] with ID [47] for session ID [143] host [DESKTOP-H15QKG3] user [shrou] process ID [25116]
+[2025.11.29 11:10:01] [1091m.09s.059ms] [1] SC[143]: UnRegistered sub-client [JobPrefsDBPI_1298910031] with ID [47] for session ID [143] host [DESKTOP-H15QKG3] user [shrou] process ID [25116]
+[2025.11.29 11:10:01] [1091m.09s.113ms] [1] SC[143]: Registered sub-client [JobPrefsDBPI_1298910109] with ID [48] for session ID [143] host [DESKTOP-H15QKG3] user [shrou] process ID [25116]
+[2025.11.29 11:10:01] [1091m.09s.120ms] [1] SC[143]: UnRegistered sub-client [JobPrefsDBPI_1298910109] with ID [48] for session ID [143] host [DESKTOP-H15QKG3] user [shrou] process ID [25116]
+[2025.11.29 11:10:01] [1091m.09s.154ms] [1] SC[143]: Registered sub-client [JobPrefsDBPI_1298910156] with ID [49] for session ID [143] host [DESKTOP-H15QKG3] user [shrou] process ID [25116]
+[2025.11.29 11:10:01] [1091m.09s.158ms] [1] SC[143]: UnRegistered sub-client [JobPrefsDBPI_1298910156] with ID [49] for session ID [143] host [DESKTOP-H15QKG3] user [shrou] process ID [25116]
+[2025.11.29 11:10:01] [1091m.09s.213ms] [1] SC[143]: Registered sub-client [JobPrefsDBPI_1298910203] with ID [50] for session ID [143] host [DESKTOP-H15QKG3] user [shrou] process ID [25116]
+[2025.11.29 11:10:01] [1091m.09s.223ms] [1] SC[143]: UnRegistered sub-client [JobPrefsDBPI_1298910203] with ID [50] for session ID [143] host [DESKTOP-H15QKG3] user [shrou] process ID [25116]
+[2025.11.29 11:12:10] [1093m.18s.297ms] [1] SC[143]: Registered sub-client [JobPrefsDBPI_1299039296] with ID [51] for session ID [143] host [DESKTOP-H15QKG3] user [shrou] process ID [25116]
+[2025.11.29 11:12:10] [1093m.18s.299ms] [1] SC[143]: UnRegistered sub-client [JobPrefsDBPI_1299039296] with ID [51] for session ID [143] host [DESKTOP-H15QKG3] user [shrou] process ID [25116]
+[2025.11.29 11:12:10] [1093m.18s.354ms] [1] SC[143]: Registered sub-client [JobPrefsDBPI_1299039343] with ID [52] for session ID [143] host [DESKTOP-H15QKG3] user [shrou] process ID [25116]
+[2025.11.29 11:12:10] [1093m.18s.362ms] [1] SC[143]: UnRegistered sub-client [JobPrefsDBPI_1299039343] with ID [52] for session ID [143] host [DESKTOP-H15QKG3] user [shrou] process ID [25116]
+[2025.11.29 11:12:17] [1093m.24s.867ms] [0] IT: Session [159] for host [DESKTOP-H15QKG3] user [shrou] client type[0] clsvrPluginID[0] with process ID [12136] created
+[2025.11.29 11:12:17] [1093m.24s.869ms] [1] SC[159]: Registered sub-client [JobPrefsDBPI_1299045703] with ID [1] for session ID [159] host [DESKTOP-H15QKG3] user [shrou] process ID [12136]
+[2025.11.29 11:12:17] [1093m.24s.886ms] [1] CMT: There are [2] clients now: 143, 159
+[2025.11.29 11:12:17] [1093m.24s.887ms] [1] SC[159]: UnRegistered sub-client [JobPrefsDBPI_1299045703] with ID [1] for session ID [159] host [DESKTOP-H15QKG3] user [shrou] process ID [12136]
+[2025.11.29 11:12:17] [1093m.24s.994ms] [1] CMT: Removed client [159]
+[2025.11.29 11:12:17] [1093m.24s.994ms] [1] CMT: There are [1] clients now: 143
+[2025.11.29 11:12:17] [1093m.25s.424ms] [0] IT: Session [160] for host [DESKTOP-H15QKG3] user [shrou] client type[0] clsvrPluginID[0] with process ID [12136] created
+[2025.11.29 11:12:17] [1093m.25s.425ms] [1] SC[160]: Registered sub-client [JobPrefsDBPI_1299046406] with ID [1] for session ID [160] host [DESKTOP-H15QKG3] user [shrou] process ID [12136]
+[2025.11.29 11:12:17] [1093m.25s.434ms] [1] CMT: There are [2] clients now: 143, 160
+[2025.11.29 11:12:17] [1093m.25s.438ms] [1] SC[160]: UnRegistered sub-client [JobPrefsDBPI_1299046406] with ID [1] for session ID [160] host [DESKTOP-H15QKG3] user [shrou] process ID [12136]
+[2025.11.29 11:12:17] [1093m.25s.544ms] [1] CMT: Removed client [160]
+[2025.11.29 11:12:17] [1093m.25s.544ms] [1] CMT: There are [1] clients now: 143
+[2025.11.29 11:12:18] [1093m.26s.033ms] [0] IT: Session [161] for host [DESKTOP-H15QKG3] user [shrou] client type[0] clsvrPluginID[0] with process ID [12136] created
+[2025.11.29 11:12:18] [1093m.26s.035ms] [1] SC[161]: Registered sub-client [JobPrefsDBPI_1299047015] with ID [1] for session ID [161] host [DESKTOP-H15QKG3] user [shrou] process ID [12136]
+[2025.11.29 11:12:18] [1093m.26s.056ms] [1] SC[161]: UnRegistered sub-client [JobPrefsDBPI_1299047015] with ID [1] for session ID [161] host [DESKTOP-H15QKG3] user [shrou] process ID [12136]
+[2025.11.29 11:12:18] [1093m.26s.093ms] [1] CMT: There are [2] clients now: 143, 161
+[2025.11.29 11:12:18] [1093m.26s.093ms] [1] CMT: Removed client [161]
+[2025.11.29 11:12:18] [1093m.26s.093ms] [1] CMT: There are [1] clients now: 143
+[2025.11.29 11:12:18] [1093m.26s.632ms] [0] IT: Session [162] for host [DESKTOP-H15QKG3] user [shrou] client type[0] clsvrPluginID[0] with process ID [12136] created
+[2025.11.29 11:12:18] [1093m.26s.634ms] [1] SC[162]: Registered sub-client [JobPrefsDBPI_1299047593] with ID [1] for session ID [162] host [DESKTOP-H15QKG3] user [shrou] process ID [12136]
+[2025.11.29 11:12:18] [1093m.26s.638ms] [1] CMT: There are [2] clients now: 143, 162
+[2025.11.29 11:12:18] [1093m.26s.644ms] [1] SC[162]: UnRegistered sub-client [JobPrefsDBPI_1299047593] with ID [1] for session ID [162] host [DESKTOP-H15QKG3] user [shrou] process ID [12136]
+[2025.11.29 11:12:19] [1093m.26s.747ms] [1] CMT: Removed client [162]
+[2025.11.29 11:12:19] [1093m.26s.747ms] [1] CMT: There are [1] clients now: 143
+[2025.11.29 11:12:19] [1093m.27s.198ms] [0] IT: Session [163] for host [DESKTOP-H15QKG3] user [shrou] client type[0] clsvrPluginID[0] with process ID [12136] created
+[2025.11.29 11:12:19] [1093m.27s.199ms] [1] SC[163]: Registered sub-client [JobPrefsDBPI_1299048156] with ID [1] for session ID [163] host [DESKTOP-H15QKG3] user [shrou] process ID [12136]
+[2025.11.29 11:12:19] [1093m.27s.209ms] [1] SC[163]: UnRegistered sub-client [JobPrefsDBPI_1299048156] with ID [1] for session ID [163] host [DESKTOP-H15QKG3] user [shrou] process ID [12136]
+[2025.11.29 11:12:19] [1093m.27s.290ms] [1] CMT: There are [2] clients now: 143, 163
+[2025.11.29 11:12:19] [1093m.27s.290ms] [1] CMT: Removed client [163]
+[2025.11.29 11:12:19] [1093m.27s.290ms] [1] CMT: There are [1] clients now: 143
+[2025.11.29 11:12:20] [1093m.27s.817ms] [0] IT: Session [164] for host [DESKTOP-H15QKG3] user [shrou] client type[0] clsvrPluginID[0] with process ID [12136] created
+[2025.11.29 11:12:20] [1093m.27s.818ms] [1] SC[164]: Registered sub-client [JobPrefsDBPI_1299048781] with ID [1] for session ID [164] host [DESKTOP-H15QKG3] user [shrou] process ID [12136]
+[2025.11.29 11:12:20] [1093m.27s.833ms] [1] CMT: There are [2] clients now: 143, 164
+[2025.11.29 11:12:20] [1093m.28s.326ms] [1] SC[164]: Registered sub-client [JobPrefsDBPI_1299049312] with ID [2] for session ID [164] host [DESKTOP-H15QKG3] user [shrou] process ID [12136]
+[2025.11.29 11:12:20] [1093m.28s.331ms] [1] SC[164]: UnRegistered sub-client [JobPrefsDBPI_1299049312] with ID [2] for session ID [164] host [DESKTOP-H15QKG3] user [shrou] process ID [12136]
+[2025.11.29 11:12:20] [1093m.28s.450ms] [1] SC[164]: Registered sub-client [JobPrefsDBPI_1299049437] with ID [3] for session ID [164] host [DESKTOP-H15QKG3] user [shrou] process ID [12136]
+[2025.11.29 11:12:20] [1093m.28s.512ms] [1] SC[164]: Registered sub-client [ODB++_1299049500] with ID [4] for session ID [164] host [DESKTOP-H15QKG3] user [shrou] process ID [12136]
+[2025.11.29 11:12:20] [1093m.28s.519ms] [1] SC[164]: Registered sub-client [NetClassDBPI_1299049515] with ID [5] for session ID [164] host [DESKTOP-H15QKG3] user [shrou] process ID [12136]
+[2025.11.29 11:12:20] [1093m.28s.523ms] [1] SC[164]: UnRegistered sub-client [NetClassDBPI_1299049515] with ID [5] for session ID [164] host [DESKTOP-H15QKG3] user [shrou] process ID [12136]
+[2025.11.29 11:12:20] [1093m.28s.524ms] [1] SC[164]: UnRegistered sub-client [ODB++_1299049500] with ID [4] for session ID [164] host [DESKTOP-H15QKG3] user [shrou] process ID [12136]
+[2025.11.29 11:12:20] [1093m.28s.534ms] [1] SC[164]: Registered sub-client [NetPropsDBPI_1299049531] with ID [6] for session ID [164] host [DESKTOP-H15QKG3] user [shrou] process ID [12136]
+[2025.11.29 11:12:20] [1093m.28s.542ms] [1] SC[164]: Registered sub-client [ODB++_1299049531] with ID [7] for session ID [164] host [DESKTOP-H15QKG3] user [shrou] process ID [12136]
+[2025.11.29 11:12:20] [1093m.28s.543ms] [1] SC[164]: UnRegistered sub-client [ODB++_1299049531] with ID [7] for session ID [164] host [DESKTOP-H15QKG3] user [shrou] process ID [12136]
+[2025.11.29 11:12:20] [1093m.28s.545ms] [1] SC[164]: UnRegistered sub-client [NetPropsDBPI_1299049531] with ID [6] for session ID [164] host [DESKTOP-H15QKG3] user [shrou] process ID [12136]
+[2025.11.29 11:12:20] [1093m.28s.554ms] [1] SC[164]: Registered sub-client [ODB++_1299049546] with ID [8] for session ID [164] host [DESKTOP-H15QKG3] user [shrou] process ID [12136]
+[2025.11.29 11:12:20] [1093m.28s.555ms] [1] SC[164]: UnRegistered sub-client [ODB++_1299049546] with ID [8] for session ID [164] host [DESKTOP-H15QKG3] user [shrou] process ID [12136]
+[2025.11.29 11:12:22] [1093m.29s.736ms] [1] SC[164]: Registered sub-client [JobPrefsDBPI_1299050734] with ID [9] for session ID [164] host [DESKTOP-H15QKG3] user [shrou] process ID [12136]
+[2025.11.29 11:12:22] [1093m.29s.743ms] [1] SC[164]: UnRegistered sub-client [JobPrefsDBPI_1299050734] with ID [9] for session ID [164] host [DESKTOP-H15QKG3] user [shrou] process ID [12136]
+[2025.11.29 11:12:22] [1093m.30s.128ms] [1] SC[164]: Registered sub-client [ODB++_1299051125] with ID [10] for session ID [164] host [DESKTOP-H15QKG3] user [shrou] process ID [12136]
+[2025.11.29 11:12:22] [1093m.30s.136ms] [1] SC[164]: Registered sub-client [NetClassDBPI_1299051125] with ID [11] for session ID [164] host [DESKTOP-H15QKG3] user [shrou] process ID [12136]
+[2025.11.29 11:12:22] [1093m.30s.140ms] [1] SC[164]: UnRegistered sub-client [NetClassDBPI_1299051125] with ID [11] for session ID [164] host [DESKTOP-H15QKG3] user [shrou] process ID [12136]
+[2025.11.29 11:12:22] [1093m.30s.142ms] [1] SC[164]: UnRegistered sub-client [ODB++_1299051125] with ID [10] for session ID [164] host [DESKTOP-H15QKG3] user [shrou] process ID [12136]
+[2025.11.29 11:12:24] [1093m.32s.212ms] [1] SC[164]: UnRegistered sub-client [JobPrefsDBPI_1299049437] with ID [3] for session ID [164] host [DESKTOP-H15QKG3] user [shrou] process ID [12136]
+[2025.11.29 11:12:24] [1093m.32s.220ms] [1] SC[164]: UnRegistered sub-client [JobPrefsDBPI_1299048781] with ID [1] for session ID [164] host [DESKTOP-H15QKG3] user [shrou] process ID [12136]
+[2025.11.29 11:12:24] [1093m.32s.307ms] [1] CMT: Removed client [164]
+[2025.11.29 11:12:24] [1093m.32s.307ms] [1] CMT: There are [1] clients now: 143
+[2025.11.29 11:15:15] [1096m.22s.813ms] [1] SC[143]: Registered sub-client [EEVM_EEVM_24214232] with ID [53] for session ID [143] host [DESKTOP-H15QKG3] user [shrou] process ID [25116]
+[2025.11.29 11:15:15] [1096m.22s.813ms] [1] SC[143]: UnRegistered sub-client [EEVM_EEVM_24214232] with ID [53] for session ID [143] host [DESKTOP-H15QKG3] user [shrou] process ID [25116]
+[2025.11.29 11:15:15] [1096m.23s.139ms] [0] IT: Session [165] for host [DESKTOP-H15QKG3] user [shrou] client type[0] clsvrPluginID[0] with process ID [2484] created
+[2025.11.29 11:15:15] [1096m.23s.140ms] [1] SC[165]: Registered sub-client [Expedition_1299224078] with ID [1] for session ID [165] host [DESKTOP-H15QKG3] user [shrou] process ID [2484]
+[2025.11.29 11:15:15] [1096m.23s.165ms] [1] CMT: There are [2] clients now: 143, 165
+[2025.11.29 11:15:15] [1096m.23s.227ms] [1] SC[165]: UnRegistered sub-client [Expedition_1299224078] with ID [1] for session ID [165] host [DESKTOP-H15QKG3] user [shrou] process ID [2484]
+[2025.11.29 11:15:15] [1096m.23s.273ms] [1] CMT: Removed client [165]
+[2025.11.29 11:15:15] [1096m.23s.273ms] [1] CMT: There are [1] clients now: 143
+[2025.11.29 11:15:18] [1096m.26s.248ms] [1] SC[143]: UnRegistered sub-client [ExpeditionCrossProber] with ID [7] for session ID [143] host [DESKTOP-H15QKG3] user [shrou] process ID [25116]
+[2025.11.29 11:15:20] [1096m.27s.863ms] [1] SC[143]: UnRegistered sub-client [Expedition PCB_1233735531] with ID [1] for session ID [143] host [DESKTOP-H15QKG3] user [shrou] process ID [25116]
+[2025.11.29 11:15:20] [1096m.27s.965ms] [1] CMT: Removed client [143]
+[2025.11.29 11:15:20] [1096m.27s.965ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2025.11.29 11:15:22] [1096m.29s.818ms] [0] CMT: Starting server auto-close
+[2025.11.29 11:15:22] [1096m.29s.896ms] [0] S: Closing server
+[2025.11.29 11:15:22] [1096m.29s.973ms] [0] iCDB Server PI: Closing plugins
+[2025.11.29 11:15:22] [1096m.29s.974ms] [0] iCDB Server PI: Plugins closed
+[2025.11.29 11:15:22] [1096m.29s.974ms] [0] iCDB Server PI: Unloading database
+[2025.11.29 11:15:22] [1096m.29s.974ms] [0] iCDB Server PI: Saving storage
+[2025.11.29 11:15:22] [1096m.29s.974ms] [0] iCDB Server PI: Closing database
+[2025.11.29 11:15:22] [1096m.29s.976ms] [1] iCDB Server PI: Stats: Database defragmentation: max[1] avg[1] holes[5%] data[89%]
+[2025.11.29 11:15:22] [1096m.29s.976ms] [1] iCDB Server PI: Stats: Database file size [198872 (194.2 kB)]
+[2025.11.29 11:15:22] [1096m.29s.993ms] [0] iCDB Server PI: Database closed
+[2025.11.29 11:15:22] [1096m.29s.993ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [217981] ticks
+[2025.11.29 11:15:22] [1096m.29s.993ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [21798] microseconds
+[2025.11.29 11:15:22] [1096m.29s.993ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [112]
+[2025.11.29 11:15:22] [1096m.29s.993ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [5138] commands per second
+[2025.11.29 11:15:22] [1096m.29s.993ms] [1] iCDB Server PI: Stats: Mem[14467072]
+[2025.11.29 11:15:22] [1096m.29s.993ms] [1] iCDB Server PI: Stats: MemPeak[32878592]
+[2025.11.29 11:15:22] [1096m.29s.994ms] [0] Single file [C:\Projects\3. 12th May to\2. Siemens\2. Daves Training\ShrouksSnowflake\database\icdb.dat] closed with size [198872 (194.2 kB)]
+[2025.11.29 11:15:22] [1096m.30s.100ms] [0] MWT: Destroy the shutdown block reason.
+[2025.11.29 11:15:22] [1096m.30s.106ms] [0] MWT: STOP
+[2025.11.29 11:15:22] [1096m.30s.108ms] [0] S: STOP
